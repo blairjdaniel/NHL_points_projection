@@ -1,0 +1,47 @@
+add a bitly to every page
+write more tests
+
+What is the question? How can I build a Moneyball type team.
+assumptions, there might be some surprises as to player comparisons. 
+
+Now that I can find the 5 closest players what to do next?
+
+I could create a build your dream team under a cap?
+            - each player has a salary that I can build using linear regression
+
+Set the active / inactive for each player
+
+Types of ML
+Regression  - find salary
+            - predict how many goals a player will get
+            - using the bigger dataset, i could find player comparison for older players
+
+How can this be useful for gambling?
+            - player predictions for points
+            
+How can this help an NHL team?
+            - Moneyball type team structure roster building
+
+How can this help Hockey Analyist?
+            - player comparisons
+            - stats from the past reflected for the future 
+
+How could I use API's?
+            - salaries
+            - the large dataset for older players
+            -for the UI, player image and information
+
+UI - What can it do, what will it look like?
+            - Page loads
+            - scrolldown bars at each location
+            - looks like a hockey rink
+            - 5 players on ice
+            - 1 goalie
+            - 15 on bench
+            - once a selection is made, 5 comparables will load
+                        - make sure you can't pick same player twice
+            - each player image, stats show up once clicked
+            - each player will have a salary attached to them
+                        - use linear regression to fill in the salary compared to recent stats
+            - there will be a counter with how much money they spent
+            - once they are under the cap and have a full bench, its done 
