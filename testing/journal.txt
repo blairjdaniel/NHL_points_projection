@@ -45,3 +45,30 @@ UI - What can it do, what will it look like?
                         - use linear regression to fill in the salary compared to recent stats
             - there will be a counter with how much money they spent
             - once they are under the cap and have a full bench, its done 
+
+Build a recommender engine off of my existing recommender engine.  look into how a playter fills a need 
+
+
+difficulties: rookies, finding salary data
+
+user chooses favourite player at C LW RW D G, then the recommender suggests the rest of the team based off your favourites plus salary remaining
+
+user picks 6 players C LW RW D D G
+user gets 30M for team
+user picks player one ie, Sidney Crosby at 10M
+recommender recommends the best team to fill roster with 20M
+user picks player 2 ie, Alex Ovechkin 10M
+recommender recommends best team with 10M left
+user picks the player, they get the recommened 5 closest players with cap hits
+user picks rest of team, gets recommendations at each pick
+user submits team
+
+User plays simulation against ai recommended roster of 6 players based off user's first pick
+do X amount of simulations
+
+Challenge: Had to scrape active player salaries from capwages.com, had to use requests and 
+beautiful soup and create a function to do so. Luckily it was in a table that I could easily 
+scrape.
+Challenge: Because of limited time, the salary linear regression model does not account for adjusted era considerations, the intention 
+is to let the user pick older players as well
+Challenge: Matching up player ids with player names across three data sources
