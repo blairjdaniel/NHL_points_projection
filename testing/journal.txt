@@ -1,5 +1,10 @@
-add a bitly to every page
-write more tests
+To Do 
+    - complete linear regression for forwards and defense
+    - fill in missing salaries of players using the models
+    - add a bitly to every page
+    - write more tests
+    - create recommender engine for filling out the team
+    - create streamlit or flask site to pick players
 
 What is the question? How can I build a Moneyball type team.
 assumptions, there might be some surprises as to player comparisons. 
@@ -72,3 +77,14 @@ scrape.
 Challenge: Because of limited time, the salary linear regression model does not account for adjusted era considerations, the intention 
 is to let the user pick older players as well
 Challenge: Matching up player ids with player names across three data sources
+Challenge: misspelled name matching between datasets - had to use generated code to figure it out
+
+Sunday - worked on EDA, completed goalie salary linear regression 
+    
+Monday - worked on EDA, setup first stage of streamlit page
+
+Tuesday - TO Do
+            - make ai team recommeder model
+            - implement logic into streamlit
+            - if time permits, work on simulation 
+                                        - need clean dataset of all players then write script.

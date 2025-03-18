@@ -72,7 +72,7 @@ if st.button('Find Similar Players'):
 
 
 # Layout for user-selected team and AI-generated team
-col1, col2 = st.columns([2, 1])
+col1, col2 = st.columns(2)
 
 with col1:
     # Display Remaining Salary Cap alongside the header.
@@ -131,11 +131,11 @@ with col1:
 
     # Add remove buttons for each player
     for index, row in selected_players_df.iterrows():
-        col1, col2 = st.columns([1, 4])
+        col1, col2 = st.columns([1, 3])
         if col1.button('Remove', key=f"remove_{index}"):
             st.session_state.user_salary_cap += row['salary']
             st.session_state.selected_players = [p for p in st.session_state.selected_players if p['name'] != row['name']]
-            st.experimental_set_query_params()  # Trigger a rerun
+            st.experimental_set_query_params()
         col2.write(f"{row['name']} ({row['position']}) - ${row['salary']:,}")
 
 with col2:
