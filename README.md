@@ -105,6 +105,9 @@ salaries
 - Integrate more data sources and APIs for player information and images for the app.
 - Integrate daily betting sites api numbers into the data stream so it can live update salary, stats.
 - Make UI much easier to work with, time constraints made for a basic setup
+- Implement a Goalie category. I ran out of time.
+- Create a more robust simuation engine where the simulator does multiple tests
+- Add a salary column to the players recommended list
 
 ## Contributing ##
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.

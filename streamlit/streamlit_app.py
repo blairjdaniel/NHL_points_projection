@@ -12,8 +12,8 @@ import streamlit.components.v1 as components
 
 
 # Load player data (make sure CSVs contain "name", "position", and "salary" columns)
-defense_data = pd.read_csv('/Users/blairjdaniel/lighthouse/lighthouse/NHL/files/master_copies/defense_rec_two.csv', index_col=0)
-forward_data = pd.read_csv('/Users/blairjdaniel/lighthouse/lighthouse/NHL/files/master_copies/forwards_rec_two.csv', index_col=0)
+defense_data = pd.read_csv('/Users/blairjdaniel/lighthouse/lighthouse/NHL/NHL_points_projection/files/master_copies/defense_rec_two.csv', index_col=0)
+forward_data = pd.read_csv('/Users/blairjdaniel/lighthouse/lighthouse/NHL/NHL_points_projection/files/master_copies/forwards_rec_two.csv', index_col=0)
 
 # Combine all player data into a single DataFrame
 all_players_data = pd.concat([defense_data, forward_data])
@@ -81,6 +81,11 @@ if st.button('Find Similar Players'):
             
             # Convert names to clickable links for display purposes
             closest_players['name'] = closest_players['name'].apply(make_clickable)
+
+            # Select the columns to display
+            display_columns = ['name', 'position', 'salary']
+            closest_players_html = closest_players[display_columns].to_html(escape=False, index=False)
+
             closest_players_html = closest_players.to_html(escape=False, index=False)
             st.write(closest_players_html, unsafe_allow_html=True)
 
