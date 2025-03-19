@@ -1,0 +1,9 @@
+gameDate,homeRoadFlag,goals,assists,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,opponentAbbrev,pim,toi
+2021-05-01,R,0,0,0,-1,0,0,0,0,0,8,ARI,0,5:12
+2021-04-30,R,0,0,0,-1,0,0,0,0,1,14,ARI,0,9:33
+2021-04-19,H,0,0,0,0,0,0,0,0,1,8,SJS,0,5:31
+2021-04-18,R,0,0,0,1,0,0,0,0,1,16,ANA,0,7:58
+2021-04-16,R,0,0,0,1,0,0,0,0,2,15,ANA,0,11:43
+2021-04-14,R,0,0,0,0,0,0,0,0,4,17,LAK,0,14:19
+2021-04-12,R,0,1,1,1,0,0,0,0,1,13,LAK,0,9:28
+2021-03-17,H,0,0,0,-1,0,0,0,0,1,13,SJS,0,7:56

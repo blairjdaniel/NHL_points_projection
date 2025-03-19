@@ -78,6 +78,7 @@ Challenge: Because of limited time, the salary linear regression model does not 
 is to let the user pick older players as well
 Challenge: Matching up player ids with player names across three data sources
 Challenge: misspelled name matching between datasets - had to use generated code to figure it out
+Challenge: Finding the right way to give weight to certain features, its why I chose pca over kmeans
 
 Sunday - worked on EDA, completed goalie salary linear regression 
     
@@ -88,9 +89,11 @@ Tuesday - finished
             - implement logic into streamlit
 
 Wednesday - TO Do
-            - finish unsupervised simulation and implement it into streamlit
-            - if time permits, work on simulation 
-                                        - need clean dataset of all players then write script.
-                                        - used unsupervised and pca as it had components that I could change weights unlike kmeans
+            - add visuals to every notebook
+            - add markdowns, etc
+            - write on a copy tests to test the code in case of user trying to break it
+            - clean up entire folder
+            
+                       
 
 USE ROMAN JOSI AS AN EXAMPLE OF AI MAKING A PERFECT TEAM

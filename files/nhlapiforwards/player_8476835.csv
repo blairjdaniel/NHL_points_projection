@@ -1,0 +1,9 @@
+gameDate,homeRoadFlag,goals,assists,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,opponentAbbrev,pim,toi
+2013-04-27,R,0,0,0,0,0,0,0,0,0,22,CBJ,0,15:17
+2013-04-25,R,0,0,0,0,0,0,0,0,0,25,DET,0,15:35
+2013-04-23,H,0,0,0,0,0,0,0,0,2,19,CGY,0,12:56
+2013-04-19,R,0,0,0,-2,0,0,0,0,3,25,CHI,0,14:49
+2013-04-15,H,0,1,1,1,0,0,0,0,4,22,VAN,0,14:50
+2013-04-14,H,0,0,0,0,0,0,0,0,1,16,DET,0,11:15
+2013-04-12,H,0,1,1,-1,0,0,0,0,2,15,DAL,0,10:00
+2013-04-09,H,0,0,0,0,0,0,0,0,1,12,STL,0,8:30

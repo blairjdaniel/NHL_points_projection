@@ -1,0 +1,9 @@
+gameDate,homeRoadFlag,goals,assists,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,opponentAbbrev,pim,toi
+2018-04-07,H,0,0,0,0,0,0,0,0,0,23,ANA,0,18:38
+2018-04-05,R,0,0,0,-1,0,0,0,0,1,22,VAN,0,14:36
+2018-04-03,R,0,1,1,2,0,0,0,0,0,23,CGY,0,17:10
+2018-03-31,H,0,0,0,0,0,0,0,0,0,24,STL,0,16:30
+2018-03-29,R,0,1,1,1,0,0,0,0,0,20,LAK,0,13:10
+2018-03-28,R,0,0,0,2,0,0,0,0,1,15,VGK,0,12:06
+2018-03-26,R,1,0,1,1,0,0,0,0,2,18,TBL,0,11:04
+2018-03-24,R,0,0,0,0,0,0,0,0,1,17,FLA,0,10:39

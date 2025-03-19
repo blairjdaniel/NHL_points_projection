@@ -1,0 +1,9 @@
+gameDate,homeRoadFlag,goals,assists,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,opponentAbbrev,pim,toi
+2010-02-02,R,0,0,0,0,0,0,0,0,0,17,TOR,0,12:34
+2010-01-31,H,0,0,0,-2,0,0,0,0,0,18,LAK,0,10:24
+2010-01-29,H,1,0,1,1,0,0,0,0,1,19,TOR,0,12:18
+2010-01-27,R,0,0,0,0,0,0,0,0,5,20,BUF,0,14:45
+2010-01-26,R,0,0,0,0,0,0,0,0,1,17,OTT,0,13:12
+2010-01-23,R,0,0,0,0,0,0,0,0,1,13,NYI,0,11:01
+2010-01-22,H,0,0,0,-1,0,0,0,0,0,19,MTL,0,13:04
+2010-01-20,H,0,0,0,0,0,0,0,0,0,22,FLA,0,13:34

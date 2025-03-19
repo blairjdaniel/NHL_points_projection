@@ -1,0 +1,9 @@
+gameDate,homeRoadFlag,goals,assists,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,opponentAbbrev,pim,toi
+2016-04-02,H,0,0,0,-1,0,0,0,0,1,17,CBJ,0,10:49
+2016-03-29,R,0,0,0,0,0,0,0,0,1,10,NYI,0,7:13
+2016-03-27,H,0,0,0,0,0,0,0,0,0,9,NJD,0,6:43
+2016-03-26,H,0,0,0,-1,0,0,0,0,1,14,NYI,0,8:53
+2016-03-24,R,0,0,0,0,0,0,0,0,2,15,CBJ,0,10:39
+2016-03-19,R,0,0,0,0,0,0,0,0,0,14,MIN,0,9:07
+2016-03-17,R,0,0,0,-2,0,0,0,0,1,11,PIT,0,8:04
+2016-03-15,R,0,0,0,0,0,0,0,0,1,15,WSH,0,10:16

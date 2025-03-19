@@ -1,0 +1,9 @@
+gameDate,homeRoadFlag,goals,assists,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,opponentAbbrev,pim,toi
+2008-12-03,R,0,0,0,-1,0,0,0,0,0,11,MIN,0,6:47
+2008-11-30,R,0,0,0,0,0,0,0,0,1,17,ATL,0,11:26
+2008-11-29,H,0,0,0,0,0,0,0,0,0,14,EDM,0,7:49
+2008-11-26,R,0,0,0,-1,0,0,0,0,0,20,COL,2,12:16
+2008-11-25,R,0,0,0,0,0,0,0,0,2,19,NSH,0,14:47
+2008-11-22,R,0,1,1,1,0,0,0,0,4,24,MIN,0,15:19
+2008-11-21,H,1,0,1,0,1,1,0,0,2,21,ANA,2,13:07
+2008-11-16,H,2,0,2,0,1,1,0,0,2,13,MTL,0,6:24

@@ -1,0 +1,9 @@
+gameDate,homeRoadFlag,goals,assists,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,opponentAbbrev,pim,toi
+2023-03-09,R,0,0,0,0,0,0,0,0,1,6,PIT,2,3:46
+2023-03-07,H,0,1,1,1,0,0,0,0,0,8,BUF,0,4:35
+2023-03-04,H,0,0,0,0,0,0,0,0,2,14,DET,0,9:23
+2023-02-28,R,0,1,1,1,0,0,0,0,0,9,MIN,0,5:53
+2023-02-26,R,0,0,0,0,0,0,0,0,1,13,WPG,0,8:27
+2023-02-24,H,0,0,0,-1,0,0,0,0,0,12,LAK,0,7:27
+2023-02-22,H,0,0,0,0,0,0,0,0,1,13,WPG,2,8:46
+2023-02-14,H,0,0,0,0,0,0,0,0,0,9,OTT,0,6:36

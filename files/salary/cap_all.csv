@@ -1,0 +1,1051 @@
+PLAYERS,TEAM,POS,HAND,AGE,G,A,PTS,SV%,CAP HIT,TOTAL,TERM,TYPE
+"Matthews, Auston",TOR,C,Left,27,23,33,56,0.0,"$13,250,000","$16,700,000",4 yrs,Std (Ext)
+"MacKinnon, Nathan",COL,C,Right,29,27,75,102,0.0,"$12,600,000","$16,500,000",8 yrs,Std (Ext)
+"McDavid, Connor",EDM,"C, RW",Left,28,24,61,85,0.0,"$12,500,000","$10,000,000",8 yrs,Std (Ext)
+"Panarin, Artemi",NYR,"RW, LW",Right,33,28,41,69,0.0,"$11,642,857","$10,000,000",7 yrs,Std
+"Pettersson, Elias",VAN,"C, LW",Left,26,14,25,39,0.0,"$11,600,000","$14,500,000",8 yrs,Std (Ext)
+"Karlsson, Erik",PIT,RD,Right,34,9,39,48,0.0,"$11,500,000","$11,000,000",8 yrs,Std (Ext)
+"Nylander, William",TOR,RW,Right,28,36,31,67,0.0,"$11,500,000","$13,500,000",8 yrs,Std (Ext)
+"Pastrnak, David",BOS,RW,Right,28,34,48,82,0.0,"$11,250,000","$13,000,000",8 yrs,Std (Ext)
+"Doughty, Drew",LAK,"RD, LD",Right,35,2,6,8,0.0,"$11,000,000","$11,000,000",8 yrs,Std (Ext)
+"Tavares, John",TOR,C,Left,34,27,29,56,0.0,"$11,000,000","$7,950,000",7 yrs,Std
+"Dahlin, Rasmus",BUF,"LD, RD",Left,24,11,40,51,0.0,"$11,000,000","$13,000,000",8 yrs,Std (Ext)
+"Marner, Mitch",TOR,"RW, LW",Right,27,21,59,80,0.0,"$10,903,000","$8,025,000",6 yrs,Std
+"Price, Carey",MTL,G,Left,37,0,0,0,0.0,"$10,500,000","$7,500,000",8 yrs,Std (Ext)
+"Huberdeau, Jonathan",CGY,"RW, LW",Left,31,25,24,49,0.0,"$10,500,000","$10,500,000",8 yrs,Std (Ext)
+"Barkov, Aleksander",FLA,C,Left,29,17,43,60,0.0,"$10,000,000","$12,000,000",8 yrs,Std (Ext)
+"Eichel, Jack",VGK,"C, LW",Right,28,20,59,79,0.0,"$10,000,000","$10,000,000",8 yrs,Std (Ext)
+"Bobrovsky, Sergei",FLA,G,Left,36,0,0,0,0.907,"$10,000,000","$6,500,000",7 yrs,Std
+"Seguin, Tyler",DAL,C,Right,33,9,11,20,0.0,"$9,850,000","$8,000,000",8 yrs,Std (Ext)
+"Gaudreau, Johnny",CBJ,"LW, RW",Left,31,0,0,0,0.0,"$9,750,000","$9,750,000",7 yrs,Std
+"Aho, Sebastian",CAR,"C, LW",Left,27,24,38,62,0.0,"$9,750,000","$12,000,000",8 yrs,Std (Ext)
+"Werenski, Zach",CBJ,LD,Left,27,20,49,69,0.0,"$9,583,333","$11,500,000",6 yrs,Std
+"Fox, Adam",NYR,RD,Right,27,5,43,48,0.0,"$9,500,000","$12,000,000",7 yrs,Std (Ext)
+"Ovechkin, Alex",WSH,"LW, RW",Right,39,33,20,53,0.0,"$9,500,000","$11,000,000",5 yrs,Std (Ext)
+"Vasilevskiy, Andrei",TBL,G,Left,30,0,2,0,0.92,"$9,500,000","$10,000,000",8 yrs,Std (Ext)
+"Point, Brayden",TBL,"C, RW",Right,29,32,33,65,0.0,"$9,500,000","$12,000,000",8 yrs,Std (Ext)
+"McAvoy, Charlie",BOS,RD,Right,27,7,16,23,0.0,"$9,500,000","$11,500,000",8 yrs,Std (Ext)
+"Benn, Jamie",DAL,"LW, C",Left,35,16,24,40,0.0,"$9,500,000","$6,500,000",8 yrs,Std (Ext)
+"Stone, Mark",VGK,RW,Right,32,17,40,57,0.0,"$9,500,000","$11,000,000",8 yrs,Std (Ext)
+"Tkachuk, Matthew",FLA,LW,Left,27,22,35,57,0.0,"$9,500,000","$11,250,000",8 yrs,Std
+"Kucherov, Nikita",TBL,RW,Left,31,28,64,92,0.0,"$9,500,000","$9,000,000",8 yrs,Std (Ext)
+"Jones, Seth",FLA,RD,Right,30,7,20,27,0.0,"$9,500,000","$12,500,000",8 yrs,Std (Ext)
+"Nurse, Darnell",EDM,"LD, RD",Left,30,5,19,24,0.0,"$9,250,000","$12,000,000",8 yrs,Std (Ext)
+"Rantanen, Mikko",DAL,RW,Left,28,25,39,64,0.0,"$9,250,000","$6,000,000",6 yrs,Std
+"Backstrom, Nicklas",WSH,C,Left,37,0,0,0,0.0,"$9,200,000","$8,000,000",5 yrs,Std (Ext)
+"Barzal, Mathew",NYI,"RW, C, LW",Right,27,6,14,20,0.0,"$9,150,000","$9,150,000",8 yrs,Std (Ext)
+"Josi, Roman",NSH,LD,Left,34,9,29,38,0.0,"$9,059,000","$9,000,000",8 yrs,Std (Ext)
+"Makar, Cale",COL,RD,Right,26,24,51,75,0.0,"$9,000,000","$10,600,000",6 yrs,Std (Ext)
+"Hamilton, Dougie",NJD,RD,Right,31,9,31,40,0.0,"$9,000,000","$12,600,000",7 yrs,Std
+"Guentzel, Jake",TBL,"LW, C",Left,30,32,31,63,0.0,"$9,000,000","$13,263,157",7 yrs,Std (Ext)
+"Kaprizov, Kirill",MIN,"RW, LW",Left,27,23,29,52,0.0,"$9,000,000","$10,000,000",5 yrs,Std
+"Pietrangelo, Alex",VGK,RD,Right,35,4,23,27,0.0,"$8,800,000","$12,500,000",7 yrs,Std
+"Meier, Timo",NJD,"RW, C, LW",Left,28,18,25,43,0.0,"$8,800,000","$11,100,000",8 yrs,Std (Ext)
+"Larkin, Dylan",DET,C,Left,28,27,32,59,0.0,"$8,700,000","$11,000,000",8 yrs,Std (Ext)
+"Laine, Patrik",MTL,"LW, RW",Right,26,15,11,26,0.0,"$8,700,000","$9,100,000",4 yrs,Std
+"Crosby, Sidney",PIT,C,Left,37,23,49,72,0.0,"$8,700,000","$3,000,000",12 yrs,Std (Ext)
+"Reinhart, Sam",FLA,"LW, RW, C",Right,29,32,38,70,0.0,"$8,625,000","$11,000,000",8 yrs,Std (Ext)
+"Seider, Moritz",DET,RD,Right,23,7,31,38,0.0,"$8,550,000","$8,550,000",7 yrs,Std (Ext)
+"Horvat, Bo",NYI,"C, RW, LW",Left,29,21,23,44,0.0,"$8,500,000","$8,500,000",8 yrs,Std (Ext)
+"Hellebuyck, Connor",WPG,G,Left,31,0,1,0,0.927,"$8,500,000","$10,000,000",7 yrs,Std (Ext)
+"Forsberg, Filip",NSH,LW,Right,30,25,34,59,0.0,"$8,500,000","$10,000,000",8 yrs,Std (Ext)
+"Draisaitl, Leon",EDM,"C, RW",Left,29,49,51,100,0.0,"$8,500,000","$8,000,000",8 yrs,Std
+"Scheifele, Mark",WPG,C,Right,32,35,40,75,0.0,"$8,500,000","$10,000,000",7 yrs,Std (Ext)
+"Zibanejad, Mika",NYR,C,Right,31,15,33,48,0.0,"$8,500,000","$10,500,000",8 yrs,Std (Ext)
+"Sergachev, Mikhail",UTA,LD,Left,26,11,32,43,0.0,"$8,500,000","$11,050,000",8 yrs,Std (Ext)
+"Dubois, Pierre-Luc",WSH,"C, RW, LW",Left,26,17,40,57,0.0,"$8,500,000","$11,250,000",8 yrs,Std (Ext)
+"Heiskanen, Miro",DAL,"LD, RD",Left,25,5,20,25,0.0,"$8,450,000","$11,000,000",8 yrs,Std (Ext)
+"Hintz, Roope",DAL,"RW, C",Left,28,25,27,52,0.0,"$8,450,000","$11,250,000",8 yrs,Std (Ext)
+"Power, Owen",BUF,"LD, RD",Left,22,6,26,32,0.0,"$8,350,000","$8,350,000",7 yrs,Std (Ext)
+"Stützle, Tim",OTT,"C, LW, RW",Left,23,20,47,67,0.0,"$8,350,000","$6,500,000",8 yrs,Std (Ext)
+"Sorokin, Ilya",NYI,G,Left,29,1,0,0,0.907,"$8,250,000","$8,250,000",8 yrs,Std (Ext)
+"Swayman, Jeremy",BOS,G,Left,26,0,0,0,0.897,"$8,250,000","$10,000,000",8 yrs,Std
+"Tkachuk, Brady",OTT,LW,Left,25,27,25,52,0.0,"$8,205,714","$10,500,000",7 yrs,Std
+"Hertl, Tomas",VGK,C,Left,31,27,27,54,0.0,"$8,137,500","$10,250,000",8 yrs,Std (Ext)
+"Kyrou, Jordan",STL,"RW, C",Right,26,24,26,50,0.0,"$8,125,000","$10,900,000",8 yrs,Std (Ext)
+"Thomas, Robert",STL,C,Right,25,17,35,52,0.0,"$8,125,000","$10,900,000",8 yrs,Std (Ext)
+"Raymond, Lucas",DET,"LW, RW",Right,22,22,46,68,0.0,"$8,075,000","$8,075,000",8 yrs,Std (Ext)
+"Sanderson, Jake",OTT,LD,Left,22,6,39,45,0.0,"$8,050,000","$8,050,000",8 yrs,Std (Ext)
+"Burns, Brent",CAR,RD,Right,40,5,18,23,0.0,"$8,000,000","$5,000,000",8 yrs,Std (Ext)
+"Miller, J.T.",NYR,"C, LW",Left,32,9,26,35,0.0,"$8,000,000","$9,000,000",7 yrs,Std (Ext)
+"Hughes, Jack",NJD,"LW, RW, C",Left,23,27,43,70,0.0,"$8,000,000","$8,500,000",8 yrs,Std (Ext)
+"Trouba, Jacob",ANA,RD,Right,31,0,6,6,0.0,"$8,000,000","$6,000,000",7 yrs,Std
+"Carlson, John",WSH,"RD, LD",Right,35,4,39,43,0.0,"$8,000,000","$6,000,000",8 yrs,Std (Ext)
+"Couture, Logan",SJS,C,Left,35,0,0,0,0.0,"$8,000,000","$7,000,000",8 yrs,Std (Ext)
+"Johansen, Ryan",PHI,C,Right,32,0,0,0,0.0,"$8,000,000","$8,000,000",8 yrs,Std
+"Stamkos, Steven",NSH,"RW, LW, C",Right,35,22,20,42,0.0,"$8,000,000","$9,500,000",4 yrs,Std
+"Chabot, Thomas",OTT,"RD, LD",Left,28,5,27,32,0.0,"$8,000,000","$10,000,000",8 yrs,Std (Ext)
+"Norris, Josh",BUF,"C, LW",Left,25,20,13,33,0.0,"$7,950,000","$9,500,000",8 yrs,Std
+"DeBrincat, Alex",DET,"RW, LW",Right,27,31,27,58,0.0,"$7,875,000","$8,250,000",4 yrs,Std
+"Bratt, Jesper",NJD,"LW, RW",Left,26,19,57,76,0.0,"$7,875,000","$9,000,000",8 yrs,Std (Ext)
+"Fiala, Kevin",LAK,"RW, LW",Left,28,25,19,44,0.0,"$7,875,000","$8,750,000",7 yrs,Std (Ext)
+"Suzuki, Nick",MTL,"C, RW",Right,25,20,49,69,0.0,"$7,875,000","$10,000,000",8 yrs,Std (Ext)
+"Hedman, Victor",TBL,LD,Left,34,11,40,51,0.0,"$7,875,000","$7,000,000",8 yrs,Std (Ext)
+"Weber, Shea",CHI,RD,Right,39,0,0,0,0.0,"$7,857,143","$1,000,000",14 yrs,Std
+"Caufield, Cole",MTL,"RW, LW",Right,24,32,27,59,0.0,"$7,850,000","$9,975,000",8 yrs,Std (Ext)
+"Hughes, Quinn",VAN,LD,Left,25,14,47,61,0.0,"$7,850,000","$9,500,000",6 yrs,Std
+"Svechnikov, Andrei",CAR,"RW, LW",Left,24,18,25,43,0.0,"$7,750,000","$9,000,000",8 yrs,Std
+"Orlov, Dmitry",CAR,"LD, RD",Left,33,4,20,24,0.0,"$7,750,000","$7,750,000",2 yrs,Std
+"Lindholm, Elias",BOS,"C, RW, LW",Right,30,11,23,34,0.0,"$7,750,000","$10,000,000",7 yrs,Std
+"Robertson, Jason",DAL,LW,Left,25,28,38,66,0.0,"$7,750,000","$9,200,000",4 yrs,Std
+"Couturier, Sean",PHI,C,Left,32,10,22,32,0.0,"$7,750,000","$9,000,000",8 yrs,Std (Ext)
+"Spurgeon, Jared",MIN,RD,Right,35,7,19,26,0.0,"$7,575,000","$8,000,000",7 yrs,Std (Ext)
+"Ekblad, Aaron",FLA,RD,Right,29,3,30,33,0.0,"$7,500,000","$7,000,000",8 yrs,Std (Ext)
+"Rielly, Morgan",TOR,LD,Left,31,7,26,33,0.0,"$7,500,000","$10,000,000",8 yrs,Std (Ext)
+"Jarvis, Seth",CAR,"RW, LW, C",Right,23,26,24,50,0.0,"$7,420,087","$10,950,000",8 yrs,Std
+"Hanifin, Noah",VGK,LD,Left,28,9,23,32,0.0,"$7,350,000","$9,500,000",8 yrs,Std (Ext)
+"Dunn, Vince",SEA,"LD, RD",Left,28,11,20,31,0.0,"$7,350,000","$8,000,000",4 yrs,Std
+"Toews, Devon",COL,LD,Left,31,7,25,32,0.0,"$7,250,000","$7,750,000",7 yrs,Std (Ext)
+"Hronek, Filip",VAN,"RD, LD",Right,27,4,21,25,0.0,"$7,250,000","$9,500,000",8 yrs,Std (Ext)
+"Hischier, Nico",NJD,C,Left,26,27,24,51,0.0,"$7,250,000","$7,750,000",7 yrs,Std (Ext)
+"Keller, Clayton",UTA,"RW, LW, C",Left,26,23,51,74,0.0,"$7,150,000","$7,000,000",8 yrs,Std (Ext)
+"Montour, Brandon",SEA,RD,Right,30,16,21,37,0.0,"$7,142,857","$8,000,000",7 yrs,Std
+"Hayes, Kevin",PIT,"C, RW",Left,32,9,9,18,0.0,"$7,142,857","$5,250,000",7 yrs,Std (Ext)
+"Connor, Kyle",WPG,"RW, LW",Left,28,35,49,84,0.0,"$7,142,857","$7,500,000",7 yrs,Std
+"Beniers, Matty",SEA,C,Left,22,16,20,36,0.0,"$7,142,857","$7,150,000",7 yrs,Std
+"Thompson, Tage",BUF,"C, LW",Right,27,34,24,58,0.0,"$7,142,857","$7,142,857",7 yrs,Std (Ext)
+"Cozens, Dylan",OTT,"C, RW",Right,24,11,20,31,0.0,"$7,100,000","$7,100,000",7 yrs,Std (Ext)
+"Lee, Anders",NYI,"LW, RW",Left,34,25,20,45,0.0,"$7,000,000","$5,850,000",7 yrs,Std
+"Kopitar, Anze",LAK,C,Left,37,16,37,53,0.0,"$7,000,000","$7,000,000",2 yrs,Std (Ext)
+"Skjei, Brady",NSH,LD,Left,30,8,16,24,0.0,"$7,000,000","$10,000,000",7 yrs,Std
+"Landeskog, Gabriel",COL,LW,Left,32,0,0,0,0.0,"$7,000,000","$9,000,000",8 yrs,Std (Ext)
+"Vlasic, Marc-Edouard",SJS,"LD, RD",Left,37,0,2,2,0.0,"$7,000,000","$7,000,000",8 yrs,Std (Ext)
+"Boldy, Matt",MIN,LW,Left,23,21,34,55,0.0,"$7,000,000","$9,700,000",7 yrs,Std (Ext)
+"Kadri, Nazem",CGY,C,Left,34,23,25,48,0.0,"$7,000,000","$7,000,000",7 yrs,Std
+"Terry, Troy",ANA,"RW, LW",Right,27,18,31,49,0.0,"$7,000,000","$7,000,000",7 yrs,Std
+"Provorov, Ivan",CBJ,"LD, RD",Left,28,7,21,28,0.0,"$6,750,000","$8,625,000",6 yrs,Std
+"McDonagh, Ryan",TBL,"LD, RD",Left,35,2,19,21,0.0,"$6,750,000","$6,930,000",7 yrs,Std (Ext)
+"Boeser, Brock",VAN,RW,Right,28,18,20,38,0.0,"$6,650,000","$6,650,000",3 yrs,Std (Ext)
+"Hagel, Brandon",TBL,"LW, RW",Left,26,30,42,72,0.0,"$6,500,000","$9,000,000",8 yrs,Std (Ext)
+"Schenn, Brayden",STL,"C, LW, RW",Left,33,14,26,40,0.0,"$6,500,000","$8,000,000",8 yrs,Std (Ext)
+"Gallagher, Brendan",MTL,RW,Right,32,15,10,25,0.0,"$6,500,000","$9,000,000",6 yrs,Std (Ext)
+"Fowler, Cam",STL,"LD, RD",Left,33,0,4,4,0.0,"$6,500,000","$7,500,000",8 yrs,Std (Ext)
+"Kreider, Chris",NYR,"LW, RW",Left,33,18,4,22,0.0,"$6,500,000","$5,000,000",7 yrs,Std (Ext)
+"Giroux, Claude",OTT,"C, RW",Right,37,13,29,42,0.0,"$6,500,000","$5,500,000",3 yrs,Std
+"Parayko, Colton",STL,RD,Right,31,15,20,35,0.0,"$6,500,000","$8,000,000",8 yrs,Std (Ext)
+"Lindholm, Hampus",BOS,LD,Left,31,3,4,7,0.0,"$6,500,000","$8,000,000",8 yrs,Std (Ext)
+"Faulk, Justin",STL,RD,Right,32,2,22,24,0.0,"$6,500,000","$4,750,000",7 yrs,Std (Ext)
+"Necas, Martin",COL,"RW, LW, C",Right,26,16,39,55,0.0,"$6,500,000","$6,000,000",2 yrs,Std
+"Wilson, Tom",WSH,RW,Right,30,29,25,54,0.0,"$6,500,000","$9,000,000",7 yrs,Std (Ext)
+"Krug, Torey",STL,LD,Left,33,0,0,0,0.0,"$6,500,000","$8,500,000",7 yrs,Std
+"Gibson, John",ANA,G,Left,31,0,1,0,0.91,"$6,400,000","$6,400,000",8 yrs,Std (Ext)
+"Killorn, Alex",ANA,"LW, RW",Left,35,15,13,28,0.0,"$6,250,000","$6,250,000",4 yrs,Std
+"Cirelli, Anthony",TBL,"C, RW",Left,27,20,25,45,0.0,"$6,250,000","$8,125,000",8 yrs,Std (Ext)
+"Stephenson, Chandler",SEA,C,Left,30,11,35,46,0.0,"$6,250,000","$6,250,000",7 yrs,Std
+"Severson, Damon",CBJ,"RD, LD",Right,30,6,18,24,0.0,"$6,250,000","$8,000,000",8 yrs,Std (Ext)
+"Petry, Jeff",DET,RD,Right,37,1,5,6,0.0,"$6,250,000","$5,000,000",4 yrs,Std (Ext)
+"Morrissey, Josh",WPG,LD,Left,29,10,42,52,0.0,"$6,250,000","$6,400,000",8 yrs,Std (Ext)
+"Weegar, MacKenzie",CGY,"LD, RD",Right,31,7,32,39,0.0,"$6,250,000","$6,250,000",8 yrs,Std (Ext)
+"Ekholm, Mattias",EDM,"LD, RD",Left,34,8,19,27,0.0,"$6,250,000","$6,500,000",4 yrs,Std (Ext)
+"Byfield, Quinton",LAK,"RW, LW",Left,22,16,23,39,0.0,"$6,250,000","$6,275,000",5 yrs,Std
+"Ellis, Ryan",PHI,RD,Right,34,0,0,0,0.0,"$6,250,000","$6,500,000",8 yrs,Std (Ext)
+"Sanheim, Travis",PHI,"RD, LD",Left,28,6,21,27,0.0,"$6,250,000","$8,125,000",8 yrs,Std (Ext)
+"Tippett, Owen",PHI,"LW, RW",Right,26,19,17,36,0.0,"$6,200,000","$6,000,000",8 yrs,Std (Ext)
+"Pulock, Ryan",NYI,RD,Right,30,4,14,18,0.0,"$6,150,000","$6,150,000",8 yrs,Std
+"Marchand, Brad",FLA,"LW, RW, C",Left,36,21,26,47,0.0,"$6,125,000","$4,000,000",8 yrs,Std (Ext)
+"Nichushkin, Valeri",COL,"LW, RW",Left,30,16,8,24,0.0,"$6,125,000","$8,000,000",8 yrs,Std (Ext)
+"Malkin, Evgeni",PIT,C,Left,38,13,30,43,0.0,"$6,100,000","$5,600,000",4 yrs,Std (Ext)
+"Letang, Kris",PIT,"RD, LD",Right,37,8,18,26,0.0,"$6,100,000","$6,200,000",6 yrs,Std (Ext)
+"Nelson, Brock",COL,"C, LW",Left,33,20,23,43,0.0,"$6,000,000","$4,000,000",6 yrs,Std (Ext)
+"Markstrom, Jacob",NJD,G,Left,35,0,0,0,0.906,"$6,000,000","$6,000,000",6 yrs,Std
+"Brodin, Jonas",MIN,LD,Left,31,4,14,18,0.0,"$6,000,000","$8,000,000",7 yrs,Std (Ext)
+"Binnington, Jordan",STL,G,Left,31,0,0,0,0.897,"$6,000,000","$7,500,000",6 yrs,Std (Ext)
+"Ehlers, Nikolaj",WPG,"LW, RW",Left,29,21,36,57,0.0,"$6,000,000","$6,750,000",7 yrs,Std (Ext)
+"Palat, Ondrej",NJD,LW,Left,33,13,12,25,0.0,"$6,000,000","$4,950,000",5 yrs,Std
+"Durzi, Sean",UTA,"RD, LD",Right,26,1,3,4,0.0,"$6,000,000","$7,100,000",4 yrs,Std (Ext)
+"Hall, Taylor",CAR,LW,Left,33,9,15,24,0.0,"$6,000,000","$5,250,000",4 yrs,Std (Ext)
+"Toffoli, Tyler",SJS,"RW, C",Right,32,25,19,44,0.0,"$6,000,000","$6,000,000",4 yrs,Std
+"Grubauer, Philipp",SEA,G,Left,33,0,0,0,0.872,"$5,900,000","$6,800,000",6 yrs,Std
+"Karlsson, William",VGK,C,Left,32,7,11,18,0.0,"$5,900,000","$5,600,000",8 yrs,Std (Ext)
+"Pionk, Neal",WPG,RD,Right,29,9,28,37,0.0,"$5,875,000","$6,000,000",4 yrs,Std
+"Gavrikov, Vladislav",LAK,LD,Left,29,4,20,24,0.0,"$5,875,000","$5,250,000",2 yrs,Std (Ext)
+"Schmaltz, Nick",UTA,"LW, RW, C",Right,29,16,35,51,0.0,"$5,850,000","$8,450,000",7 yrs,Std (Ext)
+"Mangiapane, Andrew",WSH,LW,Left,28,11,11,22,0.0,"$5,800,000","$5,800,000",3 yrs,Std
+"Lindell, Esa",DAL,"LD, RD",Left,30,4,16,20,0.0,"$5,800,000","$5,000,000",6 yrs,Std (Ext)
+"Buchnevich, Pavel",STL,"LW, C",Left,29,13,31,44,0.0,"$5,800,000","$6,300,000",4 yrs,Std (Ext)
+"Pelech, Adam",NYI,LD,Left,30,0,17,17,0.0,"$5,750,000","$5,750,000",8 yrs,Std
+"Mittelstadt, Casey",BOS,C,Left,26,11,23,34,0.0,"$5,750,000","$5,750,000",3 yrs,Std (Ext)
+"Forsling, Gustav",FLA,LD,Left,28,9,13,22,0.0,"$5,750,000","$6,525,000",8 yrs,Std (Ext)
+"Roy, Matt",WSH,RD,Right,30,2,19,21,0.0,"$5,750,000","$700,000",6 yrs,Std
+"Oshie, T.J.",WSH,RW,Right,38,0,0,0,0.0,"$5,750,000","$4,000,000",8 yrs,Std (Ext)
+"Zegras, Trevor",ANA,"LW, C, RW",Left,23,7,14,21,0.0,"$5,750,000","$5,750,000",3 yrs,Std
+"Shesterkin, Igor",NYR,G,Left,29,0,0,0,0.906,"$5,666,667","$6,666,667",4 yrs,Std
+"Copp, Andrew",DET,"C, RW",Left,30,10,13,23,0.0,"$5,625,000","$6,250,000",5 yrs,Std
+"Trocheck, Vincent",NYR,C,Right,31,18,25,43,0.0,"$5,625,000","$6,375,000",7 yrs,Std
+"Kempe, Adrian",LAK,"LW, RW",Left,28,27,26,53,0.0,"$5,500,000","$5,500,000",4 yrs,Std (Ext)
+"Burakovsky, Andre",SEA,"LW, RW",Left,30,6,18,24,0.0,"$5,500,000","$6,250,000",5 yrs,Std
+"Kuzmenko, Andrei",LAK,"LW, RW",Right,29,4,11,15,0.0,"$5,500,000","$5,500,000",2 yrs,Std (Ext)
+"Pesce, Brett",NJD,RD,Right,30,3,11,14,0.0,"$5,500,000","$7,000,000",6 yrs,Std
+"Schwartz, Jaden",SEA,"RW, LW, C",Left,32,19,20,39,0.0,"$5,500,000","$6,000,000",5 yrs,Std
+"DeBrusk, Jake",VAN,"RW, LW",Left,28,23,14,37,0.0,"$5,500,000","$6,500,000",7 yrs,Std
+"Marchessault, Jonathan",NSH,"RW, C",Right,34,19,29,48,0.0,"$5,500,000","$7,000,000",5 yrs,Std
+"Anderson, Josh",MTL,"RW, LW",Right,30,10,10,20,0.0,"$5,500,000","$7,000,000",7 yrs,Std (Ext)
+"Danault, Phillip",LAK,C,Left,32,6,28,34,0.0,"$5,500,000","$6,750,000",6 yrs,Std
+"Monahan, Sean",CBJ,C,Left,30,14,27,41,0.0,"$5,500,000","$7,000,000",5 yrs,Std
+"Konecny, Travis",PHI,"RW, LW",Right,28,22,43,65,0.0,"$5,500,000","$7,000,000",6 yrs,Std
+"Bertuzzi, Tyler",CHI,LW,Left,30,17,17,34,0.0,"$5,500,000","$7,000,000",4 yrs,Std
+"Hyman, Zach",EDM,"LW, RW",Right,32,22,15,37,0.0,"$5,500,000","$7,700,000",7 yrs,Std
+"Merzlikins, Elvis",CBJ,G,Left,30,0,0,0,0.896,"$5,400,000","$6,000,000",5 yrs,Std (Ext)
+"Bjorkstrand, Oliver",TBL,RW,Right,29,16,21,37,0.0,"$5,400,000","$5,900,000",5 yrs,Std (Ext)
+"Teravainen, Teuvo",CHI,"LW, RW, C",Left,30,15,36,51,0.0,"$5,400,000","$6,200,000",3 yrs,Std
+"Jarry, Tristan",PIT,G,Left,29,0,1,0,0.894,"$5,375,000","$6,400,000",5 yrs,Std
+"Slavin, Jaccob",CAR,LD,Left,30,6,17,23,0.0,"$5,300,000","$5,200,000",7 yrs,Std (Ext)
+"Coyle, Charlie",COL,C,Right,33,15,7,22,0.0,"$5,250,000","$4,500,000",6 yrs,Std (Ext)
+"Kuemper, Darcy",LAK,G,Left,34,0,1,0,0.917,"$5,250,000","$6,000,000",5 yrs,Std
+"Eriksson Ek, Joel",MIN,C,Left,28,9,15,24,0.0,"$5,250,000","$9,000,000",8 yrs,Std (Ext)
+"Cernak, Erik",TBL,"RD, LD",Right,27,3,15,18,0.0,"$5,200,000","$6,760,000",8 yrs,Std (Ext)
+"Theodore, Shea",VGK,LD,Left,29,7,41,48,0.0,"$5,200,000","$5,200,000",7 yrs,Std
+"Gourde, Yanni",TBL,"C, LW",Left,33,6,11,17,0.0,"$5,166,666","$5,100,000",6 yrs,Std (Ext)
+"Rust, Bryan",PIT,"RW, LW",Right,32,22,27,49,0.0,"$5,125,000","$6,100,000",6 yrs,Std (Ext)
+"Kane, Evander",EDM,"LW, RW",Left,33,0,0,0,0.0,"$5,125,000","$4,750,000",4 yrs,Std (Ext)
+"Nugent-Hopkins, Ryan",EDM,"RW, C",Left,31,16,23,39,0.0,"$5,125,000","$6,250,000",8 yrs,Std (Ext)
+"Compher, J.T.",DET,"C, LW",Right,29,7,18,25,0.0,"$5,100,000","$5,500,000",5 yrs,Std
+"Ristolainen, Rasmus",PHI,RD,Right,30,4,15,19,0.0,"$5,100,000","$6,500,000",5 yrs,Std (Ext)
+"Wennberg, Alexander",SJS,C,Left,30,8,23,31,0.0,"$5,000,000","$5,000,000",2 yrs,Std
+"Lundell, Anton",FLA,C,Left,23,15,26,41,0.0,"$5,000,000","$5,900,000",6 yrs,Std
+"Petersen, Cal",PHI,G,Right,30,0,0,0,0.0,"$5,000,000","$6,000,000",3 yrs,Std (Ext)
+"Strome, Dylan",WSH,C,Left,28,20,44,64,0.0,"$5,000,000","$6,000,000",5 yrs,Std (Ext)
+"Barbashev, Ivan",VGK,"LW, C",Left,29,19,22,41,0.0,"$5,000,000","$5,400,000",5 yrs,Std (Ext)
+"McCann, Jared",SEA,"LW, C",Left,28,16,29,45,0.0,"$5,000,000","$5,500,000",5 yrs,Std (Ext)
+"Zucker, Jason",BUF,"LW, RW",Left,33,18,26,44,0.0,"$5,000,000","$5,000,000",1 yrs,Std
+"Pageau, Jean-Gabriel",NYI,C,Right,32,12,22,34,0.0,"$5,000,000","$4,000,000",6 yrs,Std (Ext)
+"Farabee, Joel",CGY,LW,Left,25,8,11,19,0.0,"$5,000,000","$5,000,000",6 yrs,Std (Ext)
+"Saros, Juuse",NSH,G,Left,29,0,1,0,0.898,"$5,000,000","$5,000,000",4 yrs,Std
+"Palmieri, Kyle",NYI,"RW, LW, C",Right,34,20,21,41,0.0,"$5,000,000","$5,000,000",4 yrs,Std
+"Ullmark, Linus",OTT,G,Left,31,0,1,0,0.912,"$5,000,000","$4,500,000",4 yrs,Std
+"Granlund, Mikael",DAL,C,Left,33,15,30,45,0.0,"$5,000,000","$5,000,000",4 yrs,Std
+"Zadorov, Nikita",BOS,"LD, RD",Left,29,4,13,17,0.0,"$5,000,000","$6,000,000",6 yrs,Std
+"Smith, Reilly",VGK,"RW, LW",Left,33,10,19,29,0.0,"$5,000,000","$4,000,000",3 yrs,Std
+"Rakell, Rickard",PIT,"RW, LW",Right,31,30,28,58,0.0,"$5,000,000","$6,000,000",6 yrs,Std (Ext)
+"Strome, Ryan",ANA,"LW, C, RW",Right,31,10,27,37,0.0,"$5,000,000","$5,000,000",5 yrs,Std
+"Girard, Samuel",COL,"LD, RD",Left,26,3,19,22,0.0,"$5,000,000","$5,000,000",7 yrs,Std (Ext)
+"Demko, Thatcher",VAN,G,Left,29,0,0,0,0.891,"$5,000,000","$6,000,000",5 yrs,Std (Ext)
+"Batherson, Drake",OTT,"RW, LW",Right,26,18,35,53,0.0,"$4,975,000","$5,400,000",6 yrs,Std
+"Garland, Conor",VAN,"RW, LW",Right,29,16,23,39,0.0,"$4,950,000","$6,000,000",5 yrs,Std (Ext)
+"Hill, Adin",VGK,G,Left,28,0,0,0,0.906,"$4,900,000","$4,200,000",2 yrs,Std (Ext)
+"Coleman, Blake",CGY,"RW, LW",Left,33,13,18,31,0.0,"$4,900,000","$4,900,000",6 yrs,Std
+"DeMelo, Dylan",WPG,RD,Right,31,3,13,16,0.0,"$4,900,000","$5,500,000",4 yrs,Std (Ext)
+"Matheson, Mike",MTL,LD,Left,31,6,23,29,0.0,"$4,875,000","$6,500,000",8 yrs,Std (Ext)
+"Kotkaniemi, Jesperi",CAR,"C, LW",Left,24,11,19,30,0.0,"$4,820,000","$4,820,000",8 yrs,Std (Ext)
+"Tuch, Alex",BUF,"RW, C",Right,28,25,24,49,0.0,"$4,750,000","$4,750,000",7 yrs,Std (Ext)
+"Chiarot, Ben",DET,"LD, RD",Left,33,3,7,10,0.0,"$4,750,000","$5,250,000",4 yrs,Std
+"Mikheyev, Ilya",CHI,"RW, LW",Left,30,15,11,26,0.0,"$4,750,000","$5,150,000",4 yrs,Std
+"Eberle, Jordan",SEA,RW,Right,34,7,12,19,0.0,"$4,750,000","$4,750,000",2 yrs,Std (Ext)
+"Zacha, Pavel",BOS,C,Left,27,13,27,40,0.0,"$4,750,000","$4,750,000",4 yrs,Std (Ext)
+"Luukkonen, Ukko-Pekka",BUF,G,Left,26,0,1,0,0.889,"$4,750,000","$4,750,000",5 yrs,Std
+"Husso, Ville",ANA,G,Left,30,0,0,0,0.866,"$4,750,000","$4,750,000",3 yrs,Std (Ext)
+"Tarasenko, Vladimir",DET,"RW, LW",Left,33,9,17,26,0.0,"$4,750,000","$4,750,000",2 yrs,Std
+"Vlasic, Alex",CHI,"LD, RD",Left,23,3,22,25,0.0,"$4,600,000","$6,000,000",6 yrs,Std (Ext)
+"Zub, Artem",OTT,RD,Right,29,2,8,10,0.0,"$4,600,000","$4,800,000",4 yrs,Std (Ext)
+"Chychrun, Jakob",WSH,"LD, RD",Left,26,18,24,42,0.0,"$4,600,000","$7,000,000",6 yrs,Std (Ext)
+"Oleksiak, Jamie",SEA,"LD, RD",Left,32,4,9,13,0.0,"$4,600,000","$5,500,000",5 yrs,Std (Ext)
+"Sandin, Rasmus",WSH,LD,Left,25,4,21,25,0.0,"$4,600,000","$5,000,000",5 yrs,Std (Ext)
+"Broberg, Philip",STL,"RD, LD",Left,23,6,15,21,0.0,"$4,580,917","$4,580,917",2 yrs,Std
+"Andersson, Rasmus",CGY,RD,Right,28,8,15,23,0.0,"$4,550,000","$4,550,000",6 yrs,Std (Ext)
+"Lehkonen, Artturi",COL,"LW, RW",Left,29,27,14,41,0.0,"$4,500,000","$4,500,000",5 yrs,Std
+"Tanev, Chris",TOR,RD,Right,35,2,15,17,0.0,"$4,500,000","$6,000,000",6 yrs,Std
+"Manson, Josh",COL,RD,Right,33,1,14,15,0.0,"$4,500,000","$4,000,000",4 yrs,Std
+"Marchment, Mason",DAL,LW,Left,29,16,17,33,0.0,"$4,500,000","$3,600,000",4 yrs,Std
+"Bunting, Michael",NSH,LW,Left,29,14,15,29,0.0,"$4,500,000","$4,500,000",3 yrs,Std
+"Backlund, Mikael",CGY,C,Left,35,11,13,24,0.0,"$4,500,000","$4,500,000",2 yrs,Std (Ext)
+"Foligno, Nick",CHI,"LW, C",Left,37,12,15,27,0.0,"$4,500,000","$5,100,000",2 yrs,Std (Ext)
+"Graves, Ryan",PIT,"LD, RD",Left,29,1,1,2,0.0,"$4,500,000","$5,500,000",6 yrs,Std
+"Lindgren, Ryan",COL,"LD, RD",Left,27,2,17,19,0.0,"$4,500,000","$4,500,000",1 yrs,Std
+"O'Reilly, Ryan",NSH,C,Left,34,16,26,42,0.0,"$4,500,000","$5,000,000",4 yrs,Std
+"Knight, Spencer",CHI,G,Left,23,0,2,0,0.907,"$4,500,000","$4,500,000",3 yrs,Std (Ext)
+"Dvorak, Christian",MTL,C,Left,29,6,14,20,0.0,"$4,450,000","$5,750,000",6 yrs,Std (Ext)
+"Chytil, Filip",VAN,C,Left,25,11,9,20,0.0,"$4,437,500","$4,625,000",4 yrs,Std (Ext)
+"Bennett, Sam",FLA,C,Left,28,22,22,44,0.0,"$4,425,000","$5,000,000",4 yrs,Std (Ext)
+"Murphy, Connor",CHI,"RD, LD",Right,31,1,16,17,0.0,"$4,400,000","$5,150,000",4 yrs,Std (Ext)
+"Marino, John",UTA,"RD, LD",Right,27,1,8,9,0.0,"$4,400,000","$6,150,000",6 yrs,Std (Ext)
+"Crouse, Lawson",UTA,"LW, RW",Left,27,10,4,14,0.0,"$4,300,000","$4,600,000",5 yrs,Std
+"Samuelsson, Mattias",BUF,"RD, LD",Left,25,3,6,9,0.0,"$4,285,714","$4,285,714",7 yrs,Std (Ext)
+"Athanasiou, Andreas",CHI,"C, RW",Left,30,1,0,1,0.0,"$4,250,000","$4,250,000",2 yrs,Std (Ext)
+"Dickinson, Jason",CHI,"C, RW",Left,29,7,9,16,0.0,"$4,250,000","$4,850,000",2 yrs,Std (Ext)
+"Mrazek, Petr",DET,G,Left,33,0,0,0,0.89,"$4,250,000","$4,850,000",2 yrs,Std (Ext)
+"Moore, Trevor",LAK,LW,Left,29,13,17,30,0.0,"$4,200,000","$4,500,000",5 yrs,Std (Ext)
+"Verhaeghe, Carter",FLA,"RW, LW, C",Left,29,17,28,45,0.0,"$4,166,667","$4,500,000",3 yrs,Std (Ext)
+"Zuccarello, Mats",MIN,"RW, LW",Left,37,15,26,41,0.0,"$4,125,000","$4,700,000",2 yrs,Std (Ext)
+"Anderson, Mikey",LAK,LD,Left,25,6,12,18,0.0,"$4,125,000","$4,200,000",8 yrs,Std (Ext)
+"Carlo, Brandon",TOR,RD,Right,28,1,8,9,0.0,"$4,100,000","$5,450,000",6 yrs,Std (Ext)
+"Jensen, Nick",OTT,"RD, LD",Right,34,3,16,19,0.0,"$4,050,000","$4,150,000",3 yrs,Std (Ext)
+"Pettersson, Marcus",VAN,LD,Left,28,3,15,18,0.0,"$4,025,175","$4,025,175",5 yrs,Std (Ext)
+"Larsson, Adam",SEA,"RD, LD",Right,32,5,14,19,0.0,"$4,000,000","$4,500,000",4 yrs,Std (Ext)
+"Martinez, Alec",CHI,"LD, RD",Left,37,5,7,12,0.0,"$4,000,000","$4,000,000",1 yrs,35+ Contract
+"Iafallo, Alex",WPG,LW,Left,31,10,12,22,0.0,"$4,000,000","$3,700,000",4 yrs,Std (Ext)
+"Dillon, Brenden",NJD,"LD, RD",Left,34,2,11,13,0.0,"$4,000,000","$5,000,000",3 yrs,Std
+"Perron, David",OTT,"LW, RW",Right,36,4,5,9,0.0,"$4,000,000","$4,000,000",2 yrs,35+ Contract
+"Mercer, Dawson",NJD,"LW, RW, C",Right,23,15,13,28,0.0,"$4,000,000","$3,000,000",3 yrs,Std
+"Gudbranson, Erik",CBJ,RD,Right,33,0,0,0,0.0,"$4,000,000","$3,500,000",4 yrs,Std
+"McCabe, Jake",TOR,"LD, RD",Left,31,2,15,17,0.0,"$4,000,000","$5,000,000",4 yrs,Std
+"Oettinger, Jake",DAL,G,Left,26,0,1,0,0.907,"$4,000,000","$4,800,000",3 yrs,Std
+"Korpisalo, Joonas",BOS,G,Left,30,0,0,0,0.896,"$4,000,000","$5,000,000",5 yrs,Std
+"Foligno, Marcus",MIN,"LW, RW",Left,33,11,11,22,0.0,"$4,000,000","$5,000,000",4 yrs,Std (Ext)
+"Leddy, Nick",STL,LD,Left,33,1,1,2,0.0,"$4,000,000","$3,500,000",4 yrs,Std
+"Niederreiter, Nino",WPG,RW,Left,32,14,16,30,0.0,"$4,000,000","$4,500,000",3 yrs,Std (Ext)
+"Dobson, Noah",NYI,"RD, LD",Right,25,6,21,27,0.0,"$4,000,000","$4,000,000",3 yrs,Std
+"Kane, Patrick",DET,"RW, LW",Left,36,17,28,45,0.0,"$4,000,000","$4,000,000",1 yrs,Std (Ext)
+"Gudas, Radko",ANA,RD,Right,34,1,12,13,0.0,"$4,000,000","$4,000,000",3 yrs,Std
+"Fabbri, Robby",ANA,"LW, RW, C",Left,29,8,8,16,0.0,"$4,000,000","$4,250,000",3 yrs,Std (Ext)
+"Colton, Ross",COL,C,Left,28,15,10,25,0.0,"$4,000,000","$4,000,000",4 yrs,Std
+"Hartman, Ryan",MIN,"C, RW",Right,30,8,12,20,0.0,"$4,000,000","$5,000,000",3 yrs,Std (Ext)
+"Harley, Thomas",DAL,"LD, RD",Left,23,12,27,39,0.0,"$4,000,000","$3,500,000",2 yrs,Std (Ext)
+"Arvidsson, Viktor",EDM,"RW, LW",Right,31,8,12,20,0.0,"$4,000,000","$4,000,000",2 yrs,Std
+"Bouchard, Evan",EDM,RD,Right,25,13,40,53,0.0,"$3,900,000","$4,300,000",2 yrs,Std
+"Miller, K'Andre",NYR,LD,Left,25,5,13,18,0.0,"$3,872,000","$4,646,000",2 yrs,Std
+"Byram, Bowen",BUF,"LD, RD",Left,23,7,23,30,0.0,"$3,850,000","$4,620,000",2 yrs,Std
+"Allen, Jake",NJD,G,Left,34,0,0,0,0.911,"$3,850,000","$3,300,000",2 yrs,Std (Ext)
+"Edmundson, Joel",LAK,"LD, RD",Left,31,5,11,16,0.0,"$3,850,000","$4,500,000",4 yrs,Std
+"Marchenko, Kirill",CBJ,RW,Right,24,25,37,62,0.0,"$3,850,000","$3,600,000",3 yrs,Std
+"Carrier, Alexandre",MTL,RD,Right,28,1,6,7,0.0,"$3,750,000","$4,600,000",3 yrs,Std
+"Jenner, Boone",CBJ,C,Left,31,0,9,9,0.0,"$3,750,000","$3,750,000",4 yrs,Std (Ext)
+"Gustavsson, Filip",MIN,G,Left,26,1,1,0,0.915,"$3,750,000","$4,000,000",3 yrs,Std
+"Dumba, Mathew",DAL,RD,Right,30,1,6,7,0.0,"$3,750,000","$4,000,000",2 yrs,Std
+"Domi, Max",TOR,"C, RW, LW",Left,30,5,21,26,0.0,"$3,750,000","$5,000,000",4 yrs,Std (Ext)
+"Pinto, Shane",OTT,C,Right,24,16,12,28,0.0,"$3,750,000","$2,500,000",2 yrs,Std
+"Brodie, TJ",CHI,"RD, LD",Left,34,2,8,10,0.0,"$3,750,000","$4,275,000",2 yrs,Std
+"Vatrano, Frank",ANA,"RW, LW",Left,31,20,21,41,0.0,"$3,650,000","$3,650,000",3 yrs,Std
+"Goodrow, Barclay",SJS,"C, RW",Left,32,4,3,7,0.0,"$3,641,667","$5,000,000",6 yrs,Std (Ext)
+"Walker, Sean",CAR,RD,Right,30,3,10,13,0.0,"$3,600,000","$5,000,000",5 yrs,Std
+"Kerfoot, Alex",UTA,"C, RW",Left,30,8,10,18,0.0,"$3,500,000","$4,000,000",2 yrs,Std
+"Duclair, Anthony",NYI,LW,Left,29,6,4,10,0.0,"$3,500,000","$3,500,000",4 yrs,Std
+"Mantha, Anthony",CGY,RW,Left,30,4,3,7,0.0,"$3,500,000","$3,500,000",1 yrs,Std
+"Tanev, Brandon",WPG,"LW, RW",Left,33,9,8,17,0.0,"$3,500,000","$3,500,000",6 yrs,Std
+"Savard, David",MTL,"RD, LD",Right,34,1,11,12,0.0,"$3,500,000","$2,800,000",4 yrs,Std
+"Ekman-Larsson, Oliver",TOR,"RD, LD",Left,33,4,22,26,0.0,"$3,500,000","$4,500,000",4 yrs,Std
+"Mayfield, Scott",NYI,RD,Right,32,2,5,7,0.0,"$3,500,000","$3,500,000",7 yrs,Std
+"Novak, Tommy",PIT,"C, LW",Left,27,13,9,22,0.0,"$3,500,000","$3,500,000",3 yrs,Std (Ext)
+"Foegele, Warren",LAK,"LW, RW",Left,28,19,18,37,0.0,"$3,500,000","$4,000,000",3 yrs,Std
+"Trenin, Yakov",MIN,"C, LW, RW",Left,28,6,7,13,0.0,"$3,500,000","$4,000,000",4 yrs,Std
+"Tolvanen, Eeli",SEA,"LW, RW",Left,25,21,12,33,0.0,"$3,475,000","$3,475,000",2 yrs,Std
+"Vilardi, Gabriel",WPG,"RW, C",Right,25,27,34,61,0.0,"$3,437,500","$3,600,000",2 yrs,Std
+"Maccelli, Matias",UTA,"RW, LW",Left,24,8,10,18,0.0,"$3,425,000","$3,025,000",3 yrs,Std
+"Georgiev, Alexandar",SJS,G,Left,29,0,1,0,0.874,"$3,400,000","$2,900,000",3 yrs,Std (Ext)
+"Andersen, Frederik",CAR,G,Left,35,0,1,0,0.912,"$3,400,000","$3,100,000",2 yrs,Std
+"Walman, Jake",EDM,"LD, RD",Left,29,6,26,32,0.0,"$3,400,000","$3,400,000",3 yrs,Std (Ext)
+"Armia, Joel",MTL,"LW, RW",Right,31,11,14,25,0.0,"$3,400,000","$3,800,000",4 yrs,Std (Ext)
+"Siegenthaler, Jonas",NJD,"LD, RD",Left,27,2,7,9,0.0,"$3,400,000","$4,000,000",5 yrs,Std (Ext)
+"Holl, Justin",DET,RD,Right,33,1,4,5,0.0,"$3,400,000","$3,400,000",3 yrs,Std
+"Vanecek, Vitek",FLA,G,Left,29,0,1,0,0.882,"$3,400,000","$2,900,000",3 yrs,Std
+"Protas, Aliaksei",WSH,"LW, RW, C",Left,24,28,30,58,0.0,"$3,375,000","$4,000,000",5 yrs,Std (Ext)
+"Moser, J.J.",TBL,"LD, RD",Left,24,2,9,11,0.0,"$3,375,000","$2,700,000",2 yrs,Std
+"Dach, Kirby",MTL,"RW, C",Right,24,10,12,22,0.0,"$3,362,500","$2,850,000",4 yrs,Std
+"Clifton, Connor",BUF,"RD, LD",Right,29,0,9,9,0.0,"$3,333,333","$3,333,333",3 yrs,Std
+"Brossoit, Laurent",CHI,G,Left,31,0,0,0,0.0,"$3,300,000","$3,300,000",2 yrs,Std
+"Fedotov, Ivan",PHI,G,Left,28,0,0,0,0.884,"$3,275,000","$3,275,000",2 yrs,Std (Ext)
+"Lowry, Adam",WPG,C,Left,31,14,15,29,0.0,"$3,250,000","$3,500,000",5 yrs,Std (Ext)
+"Soucy, Carson",NYR,"LD, RD",Left,30,3,7,10,0.0,"$3,250,000","$3,250,000",3 yrs,Std
+"Ceci, Cody",DAL,"RD, LD",Right,31,4,11,15,0.0,"$3,250,000","$3,500,000",4 yrs,Std
+"Perfetti, Cole",WPG,"RW, C, LW",Left,23,13,27,40,0.0,"$3,250,000","$3,000,000",2 yrs,Std
+"Joshua, Dakota",VAN,"LW, RW, C",Left,28,4,3,7,0.0,"$3,250,000","$4,250,000",4 yrs,Std (Ext)
+"Lyubushkin, Ilya",DAL,RD,Right,30,1,12,13,0.0,"$3,250,000","$4,000,000",2 yrs,Std
+"Ferraro, Mario",SJS,LD,Left,26,5,7,12,0.0,"$3,250,000","$3,250,000",4 yrs,Std
+"Faksa, Radek",STL,"C, LW, RW",Left,31,3,8,11,0.0,"$3,250,000","$2,750,000",5 yrs,Std
+"Rasmussen, Michael",DET,"LW, RW, C",Left,25,10,7,17,0.0,"$3,200,000","$2,550,000",4 yrs,Std (Ext)
+"Gostisbehere, Shayne",CAR,"LD, RD",Left,31,7,28,35,0.0,"$3,200,000","$4,000,000",3 yrs,Std
+"Nyquist, Gustav",MIN,"RW, C",Left,35,9,12,21,0.0,"$3,185,000","$3,185,000",2 yrs,Std
+"Dumoulin, Brian",NJD,LD,Left,33,2,14,16,0.0,"$3,150,000","$3,000,000",2 yrs,Std
+"Haula, Erik",NJD,"C, LW",Left,33,6,8,14,0.0,"$3,150,000","$3,150,000",3 yrs,Std (Ext)
+"Paul, Nicholas",TBL,"C, LW",Left,29,19,16,35,0.0,"$3,150,000","$3,250,000",7 yrs,Std (Ext)
+"Montembeault, Sam",MTL,G,Left,28,0,1,0,0.9,"$3,150,000","$4,000,000",3 yrs,Std (Ext)
+"Jokiharju, Henri",BOS,RD,Right,25,3,3,6,0.0,"$3,100,000","$3,100,000",1 yrs,Std
+"Cole, Ian",UTA,"LD, RD",Left,36,1,13,14,0.0,"$3,100,000","$3,100,000",1 yrs,35+ Contract
+"Sharangovich, Yegor",CGY,"RW, C, LW",Left,26,12,11,23,0.0,"$3,100,000","$3,100,000",2 yrs,Std (Ext)
+"Martinook, Jordan",CAR,LW,Left,32,12,19,31,0.0,"$3,050,000","$3,800,000",3 yrs,Std
+"Henrique, Adam",EDM,"C, RW, LW",Left,35,8,9,17,0.0,"$3,000,000","$3,000,000",2 yrs,Std
+"Luostarinen, Eetu",FLA,"LW, RW, C",Left,26,8,12,20,0.0,"$3,000,000","$3,500,000",3 yrs,Std (Ext)
+"Rodrigues, Evan",FLA,"RW, LW, C",Right,31,14,13,27,0.0,"$3,000,000","$3,000,000",4 yrs,Std
+"Chatfield, Jalen",CAR,RD,Right,28,6,10,16,0.0,"$3,000,000","$3,750,000",3 yrs,Std (Ext)
+"Skinner, Jeff",EDM,"LW, RW, C",Left,32,11,10,21,0.0,"$3,000,000","$3,000,000",1 yrs,Std
+"Greenway, Jordan",BUF,"LW, RW",Left,28,3,5,8,0.0,"$3,000,000","$3,000,000",3 yrs,Std (Ext)
+"Duchene, Matt",DAL,"RW, C",Left,34,25,41,66,0.0,"$3,000,000","$3,000,000",1 yrs,Std
+"Roy, Nicolas",VGK,"C, RW",Right,28,9,15,24,0.0,"$3,000,000","$3,000,000",5 yrs,Std
+"Maatta, Olli",UTA,"RD, LD",Left,30,0,0,0,0.0,"$3,000,000","$3,000,000",2 yrs,Std (Ext)
+"Engvall, Pierre",NYI,LW,Left,28,4,4,8,0.0,"$3,000,000","$3,000,000",7 yrs,Std
+"Laughton, Scott",TOR,"C, LW",Left,30,11,16,27,0.0,"$3,000,000","$3,625,000",5 yrs,Std (Ext)
+"Liljegren, Timothy",SJS,RD,Right,25,0,0,0,0.0,"$3,000,000","$3,400,000",2 yrs,Std (Ext)
+"van Riemsdyk, Trevor",WSH,"RD, LD",Right,33,0,16,16,0.0,"$3,000,000","$3,000,000",3 yrs,Std (Ext)
+"Myers, Tyler",VAN,"RD, LD",Right,35,4,17,21,0.0,"$3,000,000","$3,800,000",3 yrs,Std (Ext)
+"Joseph, Mathieu",STL,RW,Left,28,3,7,10,0.0,"$2,950,000","$3,300,000",4 yrs,Std
+"Newhook, Alex",MTL,"C, LW, RW",Left,24,13,9,22,0.0,"$2,900,000","$3,300,000",4 yrs,Std
+"Staal, Jordan",CAR,C,Left,36,12,21,33,0.0,"$2,900,000","$3,410,000",4 yrs,Std (Ext)
+"Sissons, Colton",NSH,C,Right,31,7,14,21,0.0,"$2,857,143","$2,300,000",7 yrs,Std
+"McNabb, Brayden",VGK,"RD, LD",Left,34,4,12,16,0.0,"$2,850,000","$2,200,000",3 yrs,Std (Ext)
+"Roslovic, Jack",CAR,"RW, C",Right,28,21,12,33,0.0,"$2,800,000","$2,800,000",1 yrs,Std
+"Peeke, Andrew",BOS,"RD, LD",Right,26,1,14,15,0.0,"$2,750,000","$2,750,000",3 yrs,Std (Ext)
+"Forsberg, Anton",OTT,G,Left,32,0,0,0,0.896,"$2,750,000","$2,750,000",3 yrs,Std (Ext)
+"Kulak, Brett",EDM,"LD, RD",Left,31,7,15,22,0.0,"$2,750,000","$2,500,000",4 yrs,Std
+"McGinn, Brock",ANA,LW,Left,31,4,4,8,0.0,"$2,750,000","$2,750,000",4 yrs,Std
+"Rutta, Jan",SJS,"RD, LD",Right,34,2,6,8,0.0,"$2,750,000","$2,500,000",3 yrs,Std
+"Kunin, Luke",CBJ,"C, LW, RW",Right,27,11,7,18,0.0,"$2,750,000","$2,750,000",1 yrs,Std (Ext)
+"Schenn, Luke",WPG,RD,Right,35,1,4,5,0.0,"$2,750,000","$2,750,000",3 yrs,Std
+"Grzelcyk, Matt",PIT,"LD, RD",Left,31,1,30,31,0.0,"$2,750,000","$2,750,000",1 yrs,Std
+"Varlamov, Semyon",NYI,G,Left,36,0,0,0,0.889,"$2,750,000","$2,750,000",4 yrs,35+ Contract
+"Noesen, Stefan",NJD,RW,Right,32,19,15,34,0.0,"$2,750,000","$2,750,000",3 yrs,Std
+"Whitecloud, Zach",VGK,RD,Right,28,4,7,11,0.0,"$2,750,000","$2,750,000",6 yrs,Std (Ext)
+"Vejmelka, Karel",UTA,G,Right,28,0,0,0,0.908,"$2,725,000","$2,775,000",3 yrs,Std (Ext)
+"Seeler, Nick",PHI,"LD, RD",Left,31,3,12,15,0.0,"$2,700,000","$2,700,000",4 yrs,Std (Ext)
+"Borgen, Will",NYR,RD,Right,28,1,1,2,0.0,"$2,700,000","$2,900,000",2 yrs,Std
+"Fehervary, Martin",WSH,LD,Left,25,4,14,18,0.0,"$2,675,000","$2,550,000",3 yrs,Std
+"Jeannot, Tanner",LAK,"LW, C, RW",Left,27,5,4,9,0.0,"$2,665,000","$2,285,000",2 yrs,Std
+"Hayton, Barrett",UTA,"C, LW",Left,24,17,21,38,0.0,"$2,650,000","$2,650,000",2 yrs,Std
+"Cates, Noah",PHI,"LW, C",Left,26,14,14,28,0.0,"$2,625,000","$2,625,000",2 yrs,Std
+"Amadio, Michael",OTT,"RW, C",Right,28,8,12,20,0.0,"$2,600,000","$2,500,000",3 yrs,Std
+"Skinner, Stuart",EDM,G,Left,26,0,0,0,0.896,"$2,600,000","$2,500,000",3 yrs,Std (Ext)
+"Nedeljkovic, Alex",PIT,G,Left,29,1,1,0,0.891,"$2,500,000","$2,500,000",2 yrs,Std (Ext)
+"Romanov, Alexander",NYI,LD,Left,25,4,14,18,0.0,"$2,500,000","$2,500,000",3 yrs,Std
+"Stolarz, Anthony",TOR,G,Left,31,0,1,0,0.92,"$2,500,000","$2,750,000",2 yrs,Std
+"Talbot, Cam",DET,G,Left,37,0,0,0,0.901,"$2,500,000","$2,500,000",2 yrs,35+ Contract
+"Cizikas, Casey",NYI,"LW, C",Left,34,5,7,12,0.0,"$2,500,000","$2,500,000",6 yrs,Std
+"Glass, Cody",NJD,"RW, LW, C",Right,25,4,11,15,0.0,"$2,500,000","$2,500,000",2 yrs,Std
+"Fabbro, Dante",CBJ,RD,Right,26,0,0,0,0.0,"$2,500,000","$2,500,000",1 yrs,Std (Ext)
+"Drouin, Jonathan",COL,"LW, RW",Left,29,9,19,28,0.0,"$2,500,000","$2,500,000",1 yrs,Std
+"Fleury, Marc-Andre",MIN,G,Left,40,0,0,0,0.904,"$2,500,000","$2,500,000",1 yrs,Std (Ext)
+"Wood, Miles",COL,"LW, RW",Left,29,2,2,4,0.0,"$2,500,000","$3,250,000",6 yrs,Std
+"Mikkola, Niko",FLA,"LD, RD",Left,28,5,16,21,0.0,"$2,500,000","$2,500,000",3 yrs,Std
+"Kuraly, Sean",CBJ,C,Left,32,5,9,14,0.0,"$2,500,000","$2,500,000",4 yrs,Std
+"Poolman, Tucker",COL,RD,Right,31,0,0,0,0.0,"$2,500,000","$3,000,000",4 yrs,Std
+"Middleton, Jake",MIN,LD,Left,29,7,11,18,0.0,"$2,450,000","$2,050,000",3 yrs,Std (Ext)
+"Eller, Lars",WSH,"C, LW, RW",Left,35,4,3,7,0.0,"$2,450,000","$2,450,000",2 yrs,Std
+"Kampf, David",TOR,C,Left,30,4,6,10,0.0,"$2,400,000","$2,400,000",4 yrs,Std (Ext)
+"Fast, Jesper",CAR,"RW, LW",Right,33,0,0,0,0.0,"$2,400,000","$2,400,000",2 yrs,Std (Ext)
+"Kakko, Kaapo",SEA,RW,Left,24,4,10,14,0.0,"$2,400,000","$2,400,000",1 yrs,Std (Ext)
+"Hathaway, Garnet",PHI,RW,Right,33,8,10,18,0.0,"$2,375,000","$2,050,000",2 yrs,Std
+"Blackwood, Mackenzie",COL,G,Left,28,0,0,0,0.911,"$2,350,000","$2,500,000",2 yrs,Std
+"Lafrenière, Alexis",NYR,LW,Left,23,14,22,36,0.0,"$2,325,000","$2,650,000",2 yrs,Std (Ext)
+"Drysdale, Jamie",PHI,RD,Right,22,5,11,16,0.0,"$2,300,000","$2,300,000",3 yrs,Std
+"Frederic, Trent",EDM,"RW, C",Left,27,8,7,15,0.0,"$2,300,000","$2,300,000",2 yrs,Std
+"Hague, Nicolas",VGK,"LD, RD",Left,26,4,6,10,0.0,"$2,294,150","$2,700,000",3 yrs,Std
+"Holloway, Dylan",STL,"LW, C",Left,23,21,27,48,0.0,"$2,290,457","$2,290,457",2 yrs,Std
+"Veleno, Joe",CHI,"C, RW, LW",Left,25,5,5,10,0.0,"$2,275,000","$2,275,000",2 yrs,Std
+"Sillinger, Cole",CBJ,C,Left,21,9,20,29,0.0,"$2,250,000","$2,250,000",2 yrs,Std
+"Heinen, Danton",PIT,"LW, RW",Left,29,6,12,18,0.0,"$2,250,000","$2,500,000",2 yrs,Std
+"Dadonov, Evgenii",DAL,RW,Left,36,16,20,36,0.0,"$2,250,000","$2,250,000",2 yrs,Std (Ext)
+"Kurashev, Philipp",CHI,"RW, LW, C",Left,25,6,4,10,0.0,"$2,250,000","$2,250,000",2 yrs,Std
+"Schneider, Braden",NYR,RD,Right,23,5,11,16,0.0,"$2,200,000","$1,760,000",2 yrs,Std
+"Vladar, Dan",CGY,G,Left,27,0,1,0,0.893,"$2,200,000","$2,200,000",2 yrs,Std (Ext)
+"Appleton, Mason",WPG,"LW, RW, C",Right,29,8,11,19,0.0,"$2,166,667","$2,250,000",3 yrs,Std
+"Texier, Alexandre",STL,"LW, RW, C",Left,25,4,5,9,0.0,"$2,100,000","$2,100,000",2 yrs,Std (Ext)
+"Jarnkrok, Calle",TOR,"RW, LW, C",Right,33,1,1,2,0.0,"$2,100,000","$2,100,000",4 yrs,Std
+"McMichael, Connor",WSH,"C, LW",Left,24,23,28,51,0.0,"$2,100,000","$2,100,000",2 yrs,Std (Ext)
+"Gaudreau, Frederick",MIN,"C, RW, LW",Right,31,15,15,30,0.0,"$2,100,000","$2,240,000",5 yrs,Std (Ext)
+"Frost, Morgan",CGY,C,Left,25,11,14,25,0.0,"$2,100,000","$2,400,000",2 yrs,Std
+"Bjugstad, Nick",UTA,C,Right,32,5,10,15,0.0,"$2,100,000","$2,100,000",2 yrs,Std
+"McLeod, Ryan",BUF,C,Left,25,14,21,35,0.0,"$2,100,000","$2,100,000",2 yrs,Std
+"Chinakhov, Yegor",CBJ,"LW, RW",Left,24,7,7,14,0.0,"$2,100,000","$2,100,000",2 yrs,Std (Ext)
+"Bear, Ethan",WSH,RD,Right,27,0,0,0,0.0,"$2,062,500","$2,750,000",2 yrs,Std
+"Sheary, Conor",TBL,"LW, C, RW",Left,32,0,0,0,0.0,"$2,000,000","$2,000,000",3 yrs,Std
+"Gustafsson, Erik",DET,LD,Left,33,2,15,17,0.0,"$2,000,000","$2,000,000",2 yrs,Std
+"Lauzon, Jeremy",NSH,"LD, RD",Left,27,0,1,1,0.0,"$2,000,000","$2,000,000",4 yrs,Std (Ext)
+"Valimaki, Juuso",UTA,LD,Left,26,2,3,5,0.0,"$2,000,000","$2,000,000",2 yrs,Std (Ext)
+"Stenlund, Kevin",UTA,"C, RW",Right,28,9,8,17,0.0,"$2,000,000","$2,000,000",2 yrs,Std
+"Kostin, Klim",SJS,"LW, RW, C",Left,25,1,6,7,0.0,"$2,000,000","$2,200,000",2 yrs,Std (Ext)
+"Johansson, Marcus",MIN,"LW, RW",Left,34,6,18,24,0.0,"$2,000,000","$2,000,000",2 yrs,Std (Ext)
+"Geekie, Morgan",BOS,"C, RW, LW",Right,26,22,13,35,0.0,"$2,000,000","$2,000,000",2 yrs,Std
+"Sturm, Nico",FLA,C,Left,29,7,6,13,0.0,"$2,000,000","$2,000,000",3 yrs,Std
+"Acciari, Noel",PIT,C,Right,33,4,5,9,0.0,"$2,000,000","$2,000,000",3 yrs,Std
+"Kochetkov, Pyotr",CAR,G,Left,25,0,3,0,0.905,"$2,000,000","$1,750,000",4 yrs,Std (Ext)
+"Donato, Ryan",CHI,"RW, LW, C",Left,28,23,26,49,0.0,"$2,000,000","$2,000,000",2 yrs,Std
+"Lomberg, Ryan",CGY,"LW, RW",Left,30,1,7,8,0.0,"$2,000,000","$2,000,000",2 yrs,Std
+"Lafferty, Sam",BUF,"RW, LW, C",Right,30,2,3,5,0.0,"$2,000,000","$2,000,000",2 yrs,Std
+"Desharnais, Vincent",SJS,RD,Right,28,0,3,3,0.0,"$2,000,000","$2,275,000",2 yrs,Std
+"Namestnikov, Vladislav",WPG,"RW, C",Left,32,11,20,31,0.0,"$2,000,000","$2,000,000",2 yrs,Std
+"Carrier, William",CAR,LW,Left,30,4,5,9,0.0,"$2,000,000","$2,500,000",6 yrs,Std
+"Ingram, Connor",UTA,G,Left,27,0,2,0,0.882,"$1,950,000","$1,950,000",3 yrs,Std (Ext)
+"Howden, Brett",VGK,"LW, C",Left,26,17,13,30,0.0,"$1,900,000","$1,650,000",2 yrs,Std
+"Poehling, Ryan",PHI,C,Left,26,5,12,17,0.0,"$1,900,000","$1,900,000",2 yrs,Std (Ext)
+"Milano, Sonny",WSH,"LW, RW",Left,28,0,0,0,0.0,"$1,900,000","$1,900,000",3 yrs,Std (Ext)
+"Lizotte, Blake",PIT,"LW, RW, C",Left,27,9,7,16,0.0,"$1,850,000","$1,850,000",2 yrs,Std
+"Duhaime, Brandon",WSH,RW,Left,27,7,10,17,0.0,"$1,850,000","$2,000,000",2 yrs,Std
+"Dorofeyev, Pavel",VGK,LW,Left,24,26,16,42,0.0,"$1,835,000","$2,170,000",2 yrs,Std
+"Grundstrom, Carl",SJS,RW,Left,27,2,6,8,0.0,"$1,800,000","$1,800,000",2 yrs,Std
+"Samsonov, Ilya",VGK,G,Left,28,0,1,0,0.889,"$1,800,000","$1,800,000",1 yrs,Std
+"Johnson, Kent",CBJ,"LW, RW, C",Left,22,21,24,45,0.0,"$1,800,000","$1,600,000",3 yrs,Std
+"Blueger, Teddy",VAN,C,Left,30,7,12,19,0.0,"$1,800,000","$1,950,000",2 yrs,Std (Ext)
+"Tatar, Tomas",NJD,"RW, LW",Left,34,6,9,15,0.0,"$1,800,000","$1,800,000",1 yrs,Std
+"Klingberg, John",EDM,"RD, LD",Right,32,1,3,4,0.0,"$1,755,056","$1,350,000",1 yrs,Std
+"Bean, Jake",CGY,"LD, RD",Left,26,2,5,7,0.0,"$1,750,000","$1,750,000",2 yrs,Std
+"Deslauriers, Nicolas",PHI,LW,Left,34,0,1,1,0.0,"$1,750,000","$1,500,000",4 yrs,Std
+"Drury, Jack",COL,C,Left,25,3,6,9,0.0,"$1,725,000","$1,775,000",2 yrs,Std
+"Zamula, Egor",PHI,"LD, RD",Left,24,3,11,14,0.0,"$1,700,000","$1,500,000",2 yrs,Std
+"Evans, Jake",MTL,"C, RW",Right,28,12,17,29,0.0,"$1,700,000","$1,700,000",3 yrs,Std (Ext)
+"York, Cam",PHI,"LD, RD",Left,24,4,10,14,0.0,"$1,600,000","$1,600,000",2 yrs,Std
+"Suter, Pius",VAN,"LW, C, RW",Left,28,17,13,30,0.0,"$1,600,000","$1,600,000",2 yrs,Std
+"McBain, Jack",UTA,C,Left,25,12,8,20,0.0,"$1,599,999","$1,599,999",2 yrs,Std
+"Brink, Bobby",PHI,RW,Right,23,10,22,32,0.0,"$1,500,000","$1,500,000",2 yrs,Std
+"Saad, Brandon",VGK,LW,Left,32,7,9,16,0.0,"$1,500,000","$1,500,000",1 yrs,Std
+"Miller, Colin",WPG,RD,Right,32,2,9,11,0.0,"$1,500,000","$1,500,000",2 yrs,Std
+"Forbort, Derek",VAN,"LD, RD",Left,33,1,6,7,0.0,"$1,500,000","$1,500,000",1 yrs,Std
+"Lundestrom, Isac",ANA,"C, LW",Left,25,4,10,14,0.0,"$1,500,000","$1,500,000",1 yrs,Std (Ext)
+"Spence, Jordan",LAK,RD,Right,24,3,18,21,0.0,"$1,500,000","$1,300,000",2 yrs,Std
+"Sherwood, Kiefer",VAN,LW,Right,29,14,11,25,0.0,"$1,500,000","$1,700,000",2 yrs,Std
+"Aube-Kubel, Nicolas",NYR,RW,Right,28,1,1,2,0.0,"$1,500,000","$1,500,000",1 yrs,Std
+"Sundqvist, Oskar",STL,C,Right,30,5,10,15,0.0,"$1,500,000","$1,500,000",2 yrs,Std (Ext)
+"Wedgewood, Scott",COL,G,Left,32,0,0,0,0.878,"$1,500,000","$1,500,000",2 yrs,Std
+"Hakanpää, Jani",TOR,RD,Right,32,0,0,0,0.0,"$1,470,000","$1,470,000",1 yrs,Std
+"Zetterlund, Fabian",OTT,"LW, RW",Right,25,17,19,36,0.0,"$1,450,000","$1,500,000",2 yrs,Std
+"Janmark, Mattias",EDM,"LW, RW, C",Left,32,2,15,17,0.0,"$1,450,000","$1,750,000",3 yrs,Std
+"Krebs, Peyton",BUF,"C, LW",Left,24,5,12,17,0.0,"$1,450,000","$1,450,000",2 yrs,Std
+"Ersson, Samuel",PHI,G,Left,25,0,0,0,0.888,"$1,450,000","$1,300,000",2 yrs,Std (Ext)
+"Samberg, Dylan",WPG,"LD, RD",Left,26,5,10,15,0.0,"$1,400,000","$1,500,000",2 yrs,Std
+"Harris, Jordan",CBJ,"LD, RD",Left,24,1,3,4,0.0,"$1,400,000","$1,400,000",2 yrs,Std (Ext)
+"Kolesar, Keegan",VGK,RW,Right,27,12,14,26,0.0,"$1,400,000","$1,400,000",3 yrs,Std
+"Kesselring, Michael",UTA,"RD, LD",Right,25,6,19,25,0.0,"$1,400,000","$1,400,000",2 yrs,Std (Ext)
+"Malenstyn, Beck",BUF,LW,Left,27,4,5,9,0.0,"$1,350,000","$1,350,000",2 yrs,Std
+"McMann, Bobby",TOR,"LW, RW, C",Left,28,17,11,28,0.0,"$1,350,000","$1,350,000",2 yrs,Std (Ext)
+"Barron, Morgan",WPG,"RW, LW, C",Left,26,6,3,9,0.0,"$1,350,000","$1,400,000",2 yrs,Std
+"Bastian, Nathan",NJD,"RW, LW",Right,27,3,6,9,0.0,"$1,350,000","$1,350,000",2 yrs,Std
+"Reaves, Ryan",TOR,"RW, LW",Right,38,0,2,2,0.0,"$1,350,000","$1,350,000",3 yrs,35+ Contract
+"Benoit, Simon",TOR,"RD, LD",Left,26,1,5,6,0.0,"$1,350,000","$1,350,000",3 yrs,Std (Ext)
+"Xhekaj, Arber",MTL,"LD, RD",Left,24,1,5,6,0.0,"$1,300,000","$1,300,000",2 yrs,Std
+"Rooney, Kevin",CGY,C,Left,31,4,3,7,0.0,"$1,300,000","$1,300,000",1 yrs,Std (Ext)
+"Dowd, Nic",WSH,C,Right,34,12,11,23,0.0,"$1,300,000","$1,000,000",3 yrs,Std (Ext)
+"Maroon, Pat",CHI,"RW, LW",Left,36,4,12,16,0.0,"$1,300,000","$1,300,000",1 yrs,35+ Contract
+"Dellandrea, Ty",SJS,"C, RW, LW",Right,24,1,5,6,0.0,"$1,300,000","$1,300,000",2 yrs,Std
+"Quick, Jonathan",NYR,G,Left,39,0,0,0,0.896,"$1,275,000","$1,275,000",1 yrs,Std (Ext)
+"Toropchenko, Alexey",STL,"RW, LW",Left,25,3,10,13,0.0,"$1,250,000","$1,250,000",2 yrs,Std
+"Beauvillier, Anthony",WSH,LW,Left,27,13,7,20,0.0,"$1,250,000","$1,250,000",1 yrs,Std
+"Miromanov, Daniil",CGY,RD,Right,27,1,6,7,0.0,"$1,250,000","$1,250,000",2 yrs,Std (Ext)
+"Stanley, Logan",WPG,"RD, LD",Left,26,1,9,10,0.0,"$1,250,000","$1,000,000",2 yrs,Std
+"Benning, Matt",TOR,RD,Right,30,0,0,0,0.0,"$1,250,000","$1,250,000",4 yrs,Std
+"Reilly, Mike",NYI,"LD, RD",Left,31,0,0,0,0.0,"$1,250,000","$1,250,000",1 yrs,Std
+"Lundkvist, Nils",DAL,RD,Right,24,0,5,5,0.0,"$1,250,000","$1,250,000",1 yrs,Std
+"Barrie, Tyson",CGY,"RD, LD",Right,33,1,2,3,0.0,"$1,250,000","$1,250,000",1 yrs,Std
+"Bogosian, Zach",MIN,RD,Right,34,4,8,12,0.0,"$1,250,000","$1,250,000",2 yrs,Std (Ext)
+"Daccord, Joey",SEA,G,Left,28,0,2,0,0.909,"$1,200,000","$1,200,000",2 yrs,Std (Ext)
+"Merrill, Jon",MIN,"RD, LD",Left,33,1,3,4,0.0,"$1,200,000","$1,200,000",3 yrs,Std (Ext)
+"Reichel, Lukas",CHI,LW,Left,22,6,13,19,0.0,"$1,200,000","$1,100,000",2 yrs,Std (Ext)
+"Steel, Sam",DAL,"LW, RW, C",Left,27,6,14,20,0.0,"$1,200,000","$1,200,000",1 yrs,Std
+"Dewar, Connor",PIT,C,Left,25,0,3,3,0.0,"$1,180,000","$1,180,000",1 yrs,Std
+"Perry, Corey",EDM,RW,Right,39,14,8,22,0.0,"$1,150,000","$1,150,000",1 yrs,35+ Contract
+"Kulikov, Dmitry",FLA,"LD, RD",Left,34,4,9,13,0.0,"$1,150,000","$1,400,000",4 yrs,Std
+"Barron, Justin",NSH,"RD, LD",Right,23,1,0,1,0.0,"$1,150,000","$1,100,000",2 yrs,Std
+"MacDermid, Kurtis",NJD,LW,Left,30,0,0,0,0.0,"$1,150,000","$1,250,000",3 yrs,Std (Ext)
+"Perunovich, Scott",NYI,LD,Left,26,2,4,6,0.0,"$1,150,000","$1,150,000",1 yrs,Std (Ext)
+"Fischer, Christian",CBJ,"RW, C",Right,27,1,6,7,0.0,"$1,125,000","$1,125,000",1 yrs,Std
+"Perbix, Nick",TBL,RD,Right,26,4,10,14,0.0,"$1,125,000","$1,125,000",2 yrs,Std (Ext)
+"Lindgren, Charlie",WSH,G,Right,31,0,0,0,0.899,"$1,100,000","$1,000,000",3 yrs,Std
+"Timmins, Conor",PIT,RD,Right,26,2,6,8,0.0,"$1,100,000","$1,100,000",2 yrs,Std (Ext)
+"Danforth, Justin",CBJ,"RW, C",Right,32,7,8,15,0.0,"$1,100,000","$1,100,000",1 yrs,Std (Ext)
+"Burroughs, Kyle",LAK,"RD, LD",Right,29,0,2,2,0.0,"$1,100,000","$1,100,000",3 yrs,Std
+"Olivier, Mathieu",CBJ,"RW, LW",Right,28,15,10,25,0.0,"$1,100,000","$1,100,000",2 yrs,Std (Ext)
+"Hoglander, Nils",VAN,LW,Left,24,5,11,16,0.0,"$1,100,000","$1,200,000",2 yrs,Std
+"Harvey-Pinard, Rafael",MTL,"C, RW, LW",Left,26,0,0,0,0.0,"$1,100,000","$1,000,000",2 yrs,Std
+"Johnston, Ross",ANA,"LW, RW",Left,31,1,3,4,0.0,"$1,100,000","$1,100,000",4 yrs,Std (Ext)
+"Hamonic, Travis",OTT,RD,Right,34,0,3,3,0.0,"$1,100,000","$1,100,000",2 yrs,Std
+"Vaakanainen, Urho",NYR,"LD, RD",Left,26,0,1,1,0.0,"$1,100,000","$1,100,000",1 yrs,Std
+"Olofsson, Victor",VGK,"LW, RW",Left,29,11,11,22,0.0,"$1,075,000","$1,075,000",1 yrs,Std
+"Leason, Brett",ANA,"RW, LW",Right,25,5,11,16,0.0,"$1,050,000","$1,050,000",1 yrs,Std
+"Tarasov, Daniil",CBJ,G,Left,25,0,1,0,0.883,"$1,050,000","$1,350,000",3 yrs,Std (Ext)
+"Bahl, Kevin",CGY,"LD, RD",Left,24,2,14,16,0.0,"$1,050,000","$1,200,000",2 yrs,Std
+"O'Connor, Logan",COL,RW,Right,28,7,9,16,0.0,"$1,050,000","$1,250,000",3 yrs,Std (Ext)
+"Kylington, Oliver",ANA,LD,Left,27,1,3,4,0.0,"$1,050,000","$1,050,000",1 yrs,Std
+"Englund, Andreas",NSH,LD,Left,29,1,0,1,0.0,"$1,000,000","$1,000,000",2 yrs,Std
+"Smith, Brendan",DAL,"LD, RD",Left,36,0,4,4,0.0,"$1,000,000","$1,000,000",1 yrs,35+ Contract
+"Pickard, Calvin",EDM,G,Left,32,0,1,0,0.898,"$1,000,000","$1,000,000",2 yrs,Std (Ext)
+"DeSmith, Casey",DAL,G,Left,33,0,1,0,0.914,"$1,000,000","$1,200,000",3 yrs,Std
+"Smith, Cole",NSH,"LW, RW",Left,29,4,6,10,0.0,"$1,000,000","$1,000,000",2 yrs,Std (Ext)
+"Brown, Connor",EDM,RW,Right,31,8,16,24,0.0,"$1,000,000","$1,000,000",1 yrs,Std
+"Smith, Craig",DET,"RW, LW, C",Right,35,9,7,16,0.0,"$1,000,000","$1,000,000",1 yrs,Std
+"Lazar, Curtis",NJD,"LW, C, RW",Right,30,2,3,5,0.0,"$1,000,000","$1,000,000",3 yrs,Std
+"Rittich, David",LAK,G,Left,32,0,0,0,0.887,"$1,000,000","$1,000,000",1 yrs,Std (Ext)
+"Chisholm, Declan",MIN,"RD, LD",Left,25,2,10,12,0.0,"$1,000,000","$1,000,000",1 yrs,Std
+"Johnson, Erik",COL,RD,Right,36,1,2,3,0.0,"$1,000,000","$1,000,000",1 yrs,35+ Contract
+"Thrun, Henry",SJS,LD,Left,24,1,9,10,0.0,"$1,000,000","$975,000",2 yrs,Std
+"Reimer, James",BUF,G,Left,37,0,0,0,0.864,"$1,000,000","$1,000,000",1 yrs,Std
+"Brown, Josh",EDM,"RD, LD",Right,31,0,1,1,0.0,"$1,000,000","$1,025,000",3 yrs,Std
+"Kahkonen, Kaapo",FLA,G,Left,28,0,0,0,0.8,"$1,000,000","$1,000,000",1 yrs,Std
+"Kapanen, Kasperi",EDM,"RW, LW",Right,28,1,0,1,0.0,"$1,000,000","$1,000,000",1 yrs,Std
+"O'Brien, Liam",UTA,"RW, LW, C",Left,30,0,2,2,0.0,"$1,000,000","$1,000,000",3 yrs,Std (Ext)
+"Pospisil, Martin",CGY,"RW, C",Left,25,4,17,21,0.0,"$1,000,000","$1,000,000",2 yrs,Std (Ext)
+"Jones, Max",EDM,"LW, RW",Left,27,0,0,0,0.0,"$1,000,000","$1,000,000",2 yrs,Std
+"Wahlstrom, Oliver",BOS,RW,Right,24,2,2,4,0.0,"$1,000,000","$1,000,000",1 yrs,Std
+"Kupari, Rasmus",WPG,"C, RW",Right,25,5,3,8,0.0,"$1,000,000","$1,100,000",2 yrs,Std
+"Carrick, Sam",NYR,C,Right,33,6,12,18,0.0,"$1,000,000","$1,000,000",3 yrs,Std
+"Raddysh, Taylor",WSH,RW,Right,27,6,19,25,0.0,"$1,000,000","$1,000,000",1 yrs,Std
+"Podkolzin, Vasily",EDM,"RW, LW",Left,23,6,15,21,0.0,"$1,000,000","$1,000,000",2 yrs,Std (Ext)
+"Jiricek, Adam",STL,RD,Right,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Spellacy, Anthony (AJ)",CHI,RW,Right,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Levshunov, Artyom",CHI,RD,Right,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Sennecke, Beckett",ANA,RW,Right,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Hutton, Ben",VGK,"LD, RD",Left,31,0,0,0,0.0,"$975,000","$975,000",2 yrs,Std (Ext)
+"Catton, Berkly",SEA,C,Left,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Yakemchuk, Carter",OTT,RD,Right,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Beaudoin, Cole",UTA,C,Left,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Sprong, Daniel",NJD,RW,Right,27,1,2,3,0.0,"$975,000","$975,000",1 yrs,Std
+"Raddysh, Darren",TBL,"RD, LD",Right,29,4,25,29,0.0,"$975,000","$1,114,000",2 yrs,Std (Ext)
+"Hemming, Emil",DAL,RW,Right,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Luchanko, Jett",PHI,C,Right,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"He, Kevin",WPG,LW,Left,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Helenius, Konsta",BUF,C,Right,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Greentree, Liam",LAK,RW,Left,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Celebrini, Macklin",SJS,C,Left,18,20,29,49,0.0,"$975,000","$975,000",3 yrs,ELC
+"Vanacker, Marek",CHI,LW,Left,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Gridin, Matvei",CGY,RW,Left,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Brandsegg-Nygard, Michael",DET,RW,Right,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Dickinson, Sam",SJS,LD,Left,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Solberg, Stian",ANA,LD,Left,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Parascak, Terik",WSH,RW,Right,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Iginla, Tij",UTA,C,Left,18,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Parekh, Zayne",CGY,RD,Right,19,0,0,0,0.0,"$975,000","$975,000",3 yrs,ELC
+"Chernyshov, Igor",SJS,LW,Right,19,0,0,0,0.0,"$966,667","$950,000",3 yrs,ELC
+"Danford, Ben",TOR,RD,Right,19,0,0,0,0.0,"$964,000","$957,000",3 yrs,ELC
+"O'Reilly, Sam",EDM,RW,Right,18,0,0,0,0.0,"$964,000","$957,000",3 yrs,ELC
+"Soderblom, Arvid",CHI,G,Left,25,0,0,0,0.905,"$962,500","$1,000,000",2 yrs,Std (Ext)
+"Wright, Cameron",EDM,RW,Right,26,0,0,0,0.0,"$952,000","$952,000",1 yrs,Std (2-way)
+"Fantilli, Adam",CBJ,"C, LW",Left,20,21,21,42,0.0,"$950,000","$950,000",3 yrs,ELC
+"Duda, Artem",UTA,LD,Left,20,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Sandin-Pellikka , Axel",DET,RD,Right,20,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Steeves, Ben",FLA,LW,Left,22,0,0,0,0.0,"$950,000","$950,000",2 yrs,ELC
+"Yager, Brayden",WPG,C,Right,20,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Ritchie, Calum",NYI,C,Right,20,1,0,1,0.0,"$950,000","$950,000",3 yrs,ELC
+"Berglund, Carl",SJS,C,Left,25,0,0,0,0.0,"$950,000","$950,000",2 yrs,ELC
+"Bedard, Connor",CHI,"C, RW",Right,19,17,35,52,0.0,"$950,000","$950,000",3 yrs,ELC
+"Black, Cooper",FLA,G,Left,23,0,0,0,0.0,"$950,000","$950,000",2 yrs,ELC
+"Gauthier, Cutter",ANA,LW,Left,21,12,20,32,0.0,"$950,000","$950,000",3 yrs,ELC
+"Mayo, Dysin",VGK,RD,Right,28,0,0,0,0.0,"$950,000","$1,000,000",3 yrs,Std (Ext)
+"Robinson, Eric",CAR,"LW, RW",Left,29,13,14,27,0.0,"$950,000","$950,000",1 yrs,Std
+"Nazar, Frank",CHI,C,Right,21,6,10,16,0.0,"$950,000","$950,000",3 yrs,ELC
+"Brindley, Gavin",CBJ,C,Right,20,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Brzustewicz, Hunter",CGY,RD,Right,20,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"McDonald, Hunter",PHI,LD,Left,22,0,0,0,0.0,"$950,000","$950,000",2 yrs,ELC
+"McKown, Hunter",CBJ,C,Right,22,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Miroshnichenko, Ivan",WSH,"LW, RW",Right,21,1,3,4,0.0,"$950,000","$950,000",3 yrs,ELC
+"Slafkovsky, Juraj",MTL,LW,Left,20,14,26,40,0.0,"$950,000","$950,000",3 yrs,ELC
+"Hutson, Lane",MTL,LD,Left,21,4,47,51,0.0,"$950,000","$950,000",3 yrs,ELC
+"Carlsson, Leo",ANA,"C, LW, RW",Left,20,14,17,31,0.0,"$950,000","$950,000",3 yrs,ELC
+"Cooley, Logan",UTA,"C, RW",Left,20,17,30,47,0.0,"$950,000","$950,000",3 yrs,ELC
+"Michkov, Matvei",PHI,RW,Left,20,20,27,47,0.0,"$950,000","$950,000",3 yrs,ELC
+"Tsyplakov, Maxim",NYI,RW,Left,26,7,20,27,0.0,"$950,000","$950,000",1 yrs,ELC
+"Diotte, Mikael",NJD,RD,Right,21,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Hovorka, Mikulas",FLA,RD,Right,23,0,0,0,0.0,"$950,000","$950,000",2 yrs,ELC
+"Tolopilo, Nikita",VAN,G,Left,24,0,0,0,0.0,"$950,000","$950,000",2 yrs,ELC
+"Eklind, Oscar",PHI,"LW, C",Left,26,0,0,0,0.0,"$950,000","$950,000",1 yrs,ELC
+"Stenberg, Otto",STL,C,Left,19,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Joseph, Pierre-Olivier",PIT,"LD, RD",Left,25,0,2,2,0.0,"$950,000","$950,000",1 yrs,Std
+"Heidt, Riley",MIN,C,Left,19,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Dionicio, Rodwin",ANA,LD,Left,20,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"McGroarty, Rutger",PIT,RW,Left,20,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Casey, Seamus",NJD,RD,Right,21,4,1,5,0.0,"$950,000","$950,000",3 yrs,ELC
+"Halliday, Stephen",OTT,C,Left,22,0,0,0,0.0,"$950,000","$950,000",2 yrs,ELC
+"Lindstein, Theo",STL,LD,Left,20,0,0,0,0.0,"$950,000","$950,000",3 yrs,ELC
+"Emberson, Ty",EDM,RD,Right,24,0,10,10,0.0,"$950,000","$950,000",1 yrs,Std
+"Smith, Will",SJS,"RW, LW, C",Right,19,13,22,35,0.0,"$950,000","$950,000",3 yrs,ELC
+"Benson, Zach",BUF,"LW, RW",Left,19,10,13,23,0.0,"$950,000","$950,000",3 yrs,ELC
+"Graf, Collin",SJS,RW,Right,22,4,5,9,0.0,"$941,667","$950,000",3 yrs,ELC
+"Muggli, Leon",WSH,LD,Left,18,0,0,0,0.0,"$940,833","$872,500",3 yrs,ELC
+"Kolosov, Aleksei",PHI,G,Left,23,0,0,0,0.87,"$925,000","$925,000",3 yrs,ELC
+"Brisson, Brendan",NYR,"LW, RW, C",Left,23,0,0,0,0.0,"$925,000","$925,000",3 yrs,ELC
+"Faber, Brock",MIN,RD,Right,22,7,17,24,0.0,"$925,000","$925,000",3 yrs,ELC
+"Ceulemans, Corson",CBJ,RD,Right,21,0,0,0,0.0,"$925,000","$925,000",3 yrs,ELC
+"Levi, Devon",BUF,G,Left,23,0,0,0,0.872,"$925,000","$925,000",3 yrs,ELC
+"Voronkov, Dmitri",CBJ,"C, LW",Left,24,20,22,42,0.0,"$925,000","$925,000",2 yrs,ELC
+"Fensore, Domenick",CAR,LD,Left,23,0,0,0,0.0,"$925,000","$925,000",2 yrs,ELC
+"Commesso, Drew",CHI,G,Left,22,0,0,0,0.846,"$925,000","$925,000",3 yrs,ELC
+"Helleson, Drew",ANA,RD,Right,23,4,6,10,0.0,"$925,000","$925,000",3 yrs,ELC
+"O'Connor, Drew",VAN,"LW, RW",Left,26,6,10,16,0.0,"$925,000","$925,000",2 yrs,Std
+"Svechkov, Fedor",NSH,C,Left,21,6,5,11,0.0,"$925,000","$925,000",3 yrs,ELC
+"Merkulov, Georgii",BOS,C,Left,24,0,1,1,0.0,"$925,000","$925,000",3 yrs,ELC
+"Peart, Jack",MIN,LD,Left,21,0,0,0,0.0,"$925,000","$925,000",3 yrs,ELC
+"LaCombe, Jackson",ANA,"RD, LD",Left,24,11,24,35,0.0,"$925,000","$925,000",2 yrs,Std
+"Dobes, Jakub",MTL,G,Left,23,0,0,0,0.907,"$925,000","$925,000",2 yrs,ELC
+"Wallstedt, Jesper",MIN,G,Left,22,0,0,0,0.843,"$925,000","$925,000",3 yrs,ELC
+"Nystrom, Joel",CAR,RD,Right,22,0,0,0,0.0,"$925,000","$925,000",2 yrs,ELC
+"Beecher, John",BOS,"C, RW",Left,23,3,8,11,0.0,"$925,000","$925,000",3 yrs,ELC
+"Doan, Josh",UTA,RW,Right,23,4,10,14,0.0,"$925,000","$925,000",3 yrs,ELC
+"Hughes, Luke",NJD,"LD, RD",Left,21,6,25,31,0.0,"$925,000","$925,000",3 yrs,ELC
+"Samoskevich, Mackie",FLA,RW,Right,22,12,12,24,0.0,"$925,000","$925,000",3 yrs,ELC
+"Khusnutdinov, Marat",BOS,"C, RW, LW",Left,22,2,5,7,0.0,"$925,000","$925,000",2 yrs,ELC
+"Lohrei, Mason",BOS,"LD, RD",Left,24,5,24,29,0.0,"$925,000","$925,000",2 yrs,ELC
+"Rizzo, Massimo",PHI,C,Left,23,0,0,0,0.0,"$925,000","$925,000",2 yrs,ELC
+"Coronato, Matt",CGY,"RW, LW",Right,22,16,17,33,0.0,"$925,000","$925,000",3 yrs,ELC
+"Knies, Matthew",TOR,"LW, RW",Left,22,24,19,43,0.0,"$925,000","$925,000",3 yrs,ELC
+"Kapanen, Oliver",MTL,C,Right,21,0,2,2,0.0,"$925,000","$925,000",3 yrs,ELC
+"Johnson, Ryan",BUF,LD,Left,23,0,0,0,0.0,"$925,000","$925,000",2 yrs,ELC
+"Ufko, Ryan",NSH,RD,Right,21,0,0,0,0.0,"$925,000","$925,000",3 yrs,ELC
+"Colangelo, Sam",ANA,"LW, RW",Right,23,6,1,7,0.0,"$925,000","$925,000",2 yrs,ELC
+"Buium, Shai",DET,LD,Left,21,0,0,0,0.0,"$925,000","$925,000",3 yrs,ELC
+"Broz, Tristan",PIT,C,Left,22,0,0,0,0.0,"$925,000","$925,000",3 yrs,ELC
+"Firstov, Vladislav",MIN,LW,Left,23,0,0,0,0.0,"$925,000","$925,000",3 yrs,ELC
+"Wallinder, William",DET,LD,Left,22,0,0,0,0.0,"$925,000","$925,000",3 yrs,ELC
+"Bourgault, Xavier",OTT,RW,Right,22,0,0,0,0.0,"$925,000","$925,000",3 yrs,ELC
+"Askarov, Yaroslav",SJS,G,Right,22,0,1,0,0.896,"$925,000","$925,000",3 yrs,ELC
+"Rehkopf, Carson",SEA,LW,Left,20,0,0,0,0.0,"$923,333","$870,000",3 yrs,ELC
+"Lutz, Julian",UTA,LW,Left,21,0,0,0,0.0,"$923,333","$870,000",3 yrs,ELC
+"Dragicevic, Lukas",SEA,RD,Right,19,0,0,0,0.0,"$923,333","$870,000",3 yrs,ELC
+"Molgaard, Oscar Fisker",SEA,C,Left,20,0,0,0,0.0,"$923,333","$870,000",3 yrs,ELC
+"Gill, Spencer",PHI,RD,Right,18,0,0,0,0.0,"$922,500","$872,500",3 yrs,ELC
+"Nadeau, Bradly",CAR,LW,Right,19,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Barlow, Colby",WPG,LW,Left,20,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Dvorsky, Dalibor",STL,C,Left,19,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Edstrom, David",NSH,C,Left,20,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Jiricek, David",MIN,RD,Right,21,0,1,1,0.0,"$918,333","$950,000",3 yrs,ELC
+"Reinbacher, David",MTL,RD,Right,20,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Sale, Eduard",SEA,LW,Left,20,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Bystedt, Filip",SJS,C,Left,21,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Lekkerimaki, Jonathan",VAN,RW,Right,20,2,1,3,0.0,"$918,333","$950,000",3 yrs,ELC
+"Korchinski, Kevin",CHI,LD,Left,20,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Bichsel, Lian",DAL,LD,Left,20,2,3,5,0.0,"$918,333","$950,000",3 yrs,ELC
+"Danielson, Nate",DET,C,Right,20,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Bonk, Oliver",PHI,RD,Right,20,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Mintyukov, Pavel",ANA,"LD, RD",Left,21,5,10,15,0.0,"$918,333","$950,000",3 yrs,ELC
+"Musty, Quentin",SJS,LW,Left,19,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Honzek, Samuel",CGY,LW,Left,20,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Nemec, Simon",NJD,RD,Right,21,1,1,2,0.0,"$918,333","$950,000",3 yrs,ELC
+"Molendyk, Tanner",NSH,LD,Left,20,0,0,0,0.0,"$918,333","$950,000",3 yrs,ELC
+"Benning, Mike",FLA,RD,Right,23,0,0,0,0.0,"$916,667","$925,000",3 yrs,ELC
+"Morrow, Scott",CAR,RD,Right,22,0,2,2,0.0,"$916,667","$925,000",3 yrs,ELC
+"Kleven, Tyler",OTT,"RD, LD",Left,23,4,2,6,0.0,"$916,667","$925,000",3 yrs,ELC
+"Kaiser, Wyatt",CHI,"RD, LD",Left,22,3,3,6,0.0,"$916,667","$925,000",3 yrs,ELC
+"Legault, Charles-Alexis",CAR,RD,Right,21,0,0,0,0.0,"$915,833","$870,000",3 yrs,ELC
+"Barkey, Denver",PHI,C,Left,19,0,0,0,0.0,"$913,333","$870,000",3 yrs,ELC
+"Slaggert, Landon",CHI,LW,Left,22,2,1,3,0.0,"$912,500","$925,000",2 yrs,ELC
+"Tuch, Luke",MTL,LW,Left,23,0,0,0,0.0,"$912,500","$900,000",2 yrs,ELC
+"Malmstrom, Anton",STL,LD,Left,25,0,0,0,0.0,"$910,000","$950,000",2 yrs,ELC
+"Romanov, Georgi",SJS,G,Left,25,0,0,0,0.0,"$910,000","$950,000",2 yrs,ELC
+"Farinacci, John",BOS,C,Right,24,0,0,0,0.0,"$910,000","$950,000",2 yrs,ELC
+"Halttunen, Kasper",SJS,RW,Right,19,0,0,0,0.0,"$908,333","$920,000",3 yrs,ELC
+"Mazur, Carter",DET,LW,Right,22,0,0,0,0.0,"$905,833","$925,000",3 yrs,ELC
+"Blake, Jackson",CAR,RW,Right,21,11,11,22,0.0,"$905,833","$925,000",3 yrs,ELC
+"Behrens, Sean",COL,LD,Left,21,0,0,0,0.0,"$905,833","$867,500",3 yrs,ELC
+"Funk, Zac",WSH,RW,Left,21,0,0,0,0.0,"$905,000","$870,000",3 yrs,ELC
+"Cowan, Easton",TOR,RW,Left,19,0,0,0,0.0,"$904,667","$923,500",3 yrs,ELC
+"Andrae, Emil",PHI,"RD, LD",Left,23,1,5,6,0.0,"$903,333","$892,500",3 yrs,ELC
+"Morin, Etienne",CGY,LD,Left,20,0,0,0,0.0,"$903,333","$895,000",3 yrs,ELC
+"Stromgren, William",CGY,LW,Left,21,0,0,0,0.0,"$900,833","$892,500",3 yrs,ELC
+"Lyon, Alex",DET,G,Left,32,0,0,0,0.9,"$900,000","$900,000",2 yrs,Std
+"Atkinson, Cam",TBL,"RW, LW",Right,35,4,5,9,0.0,"$900,000","$900,000",1 yrs,Std
+"Ryan, Derek",EDM,"C, RW",Right,38,1,4,5,0.0,"$900,000","$900,000",2 yrs,Std (Ext)
+"Brannstrom, Erik",BUF,"LD, RD, LW",Left,25,3,5,8,0.0,"$900,000","$900,000",1 yrs,Std
+"Bryson, Jacob",BUF,"LD, RD",Left,27,0,6,6,0.0,"$900,000","$900,000",1 yrs,Std
+"van Riemsdyk, James",CBJ,LW,Left,35,14,16,30,0.0,"$900,000","$900,000",1 yrs,Std
+"Nieto, Matt",PIT,LW,Left,32,1,2,3,0.0,"$900,000","$900,000",2 yrs,Std
+"McCarron, Michael",NSH,"C, RW",Right,30,4,6,10,0.0,"$900,000","$900,000",2 yrs,Std (Ext)
+"Ludwinski, Paul",CHI,C,Left,20,0,0,0,0.0,"$900,000","$895,000",3 yrs,ELC
+"Stienburg, Matt",COL,C,Right,24,0,0,0,0.0,"$898,750","$927,500",2 yrs,ELC
+"Basha, Andrew",CGY,LW,Left,19,0,0,0,0.0,"$897,500","$872,500",3 yrs,ELC
+"Heineman, Emil",MTL,LW,Left,23,10,7,17,0.0,"$897,500","$925,000",3 yrs,ELC
+"Usau, Ilya",TBL,C,Left,23,0,0,0,0.0,"$897,500","$925,000",3 yrs,ELC
+"Pyyhtia, Mikael",CBJ,LW,Left,23,4,3,7,0.0,"$897,500","$925,000",3 yrs,ELC
+"Kumpulainen, Rasmus",MIN,C,Left,19,0,0,0,0.0,"$897,500","$870,000",3 yrs,ELC
+"Evans, Ryker",SEA,"RD, LD",Left,23,5,18,23,0.0,"$897,500","$925,000",3 yrs,ELC
+"Farrell, Sean",MTL,C,Left,23,0,0,0,0.0,"$897,500","$925,000",3 yrs,ELC
+"Engstrom, Adam",MTL,"LD, RD",Left,21,0,0,0,0.0,"$896,667","$870,000",3 yrs,ELC
+"Gibson, Andrew",NSH,RD,Right,20,0,0,0,0.0,"$896,667","$870,000",3 yrs,ELC
+"Lardis, Nick",CHI,LW,Left,19,0,0,0,0.0,"$896,667","$870,000",3 yrs,ELC
+"Myatovic, Nico",ANA,LW,Left,20,0,0,0,0.0,"$896,667","$870,000",3 yrs,ELC
+"McAllister, Ryan",FLA,C,Left,23,0,0,0,0.0,"$896,667","$870,000",3 yrs,ELC
+"Raty, Aku",CHI,RW,Right,23,0,0,0,0.0,"$896,250","$925,000",2 yrs,ELC
+"Saarela, Antti",CHI,C,Left,23,0,0,0,0.0,"$896,250","$925,000",2 yrs,ELC
+"Kovalenko, Nikolai",SJS,RW,Left,25,4,4,8,0.0,"$896,250","$867,500",2 yrs,ELC
+"Cagnoni, Luca",SJS,LD,Left,20,0,0,0,0.0,"$895,000","$870,000",3 yrs,ELC
+"Rolston, Ryder",NSH,RW,Right,23,0,0,0,0.0,"$895,000","$892,500",3 yrs,ELC
+"Holtz, Alexander",VGK,"RW, LW",Right,23,3,8,11,0.0,"$894,167","$832,500",3 yrs,ELC
+"Lucius, Chaz",WPG,C,Right,21,0,0,0,0.0,"$894,167","$925,000",3 yrs,ELC
+"Guenther, Dylan",UTA,RW,Right,21,24,24,48,0.0,"$894,167","$832,500",3 yrs,ELC
+"Rosen, Isak",BUF,RW,Left,22,0,0,0,0.0,"$894,167","$925,000",3 yrs,ELC
+"McTavish, Mason",ANA,"C, LW",Left,22,18,20,38,0.0,"$894,167","$832,500",3 yrs,ELC
+"Bourque, Mavrik",DAL,C,Right,23,9,11,20,0.0,"$894,167","$832,500",3 yrs,ELC
+"Jarventie, Roby",EDM,"C, LW",Left,22,0,0,0,0.0,"$894,167","$832,500",3 yrs,ELC
+"Mukhamadullin, Shakir",SJS,LD,Left,23,1,7,8,0.0,"$894,167","$832,500",3 yrs,ELC
+"Edvinsson, Simon",DET,LD,Left,22,7,18,25,0.0,"$894,167","$925,000",3 yrs,ELC
+"Johnston, Wyatt",DAL,"C, RW, LW",Right,21,24,36,60,0.0,"$894,167","$832,500",3 yrs,ELC
+"Goyette, David",SEA,C,Left,20,0,0,0,0.0,"$891,667","$870,000",3 yrs,ELC
+"Firkus, Jagger",SEA,RW,Right,20,0,0,0,0.0,"$891,667","$870,000",3 yrs,ELC
+"Nyman, Jani",SEA,RW,Left,20,1,0,1,0.0,"$891,667","$870,000",3 yrs,ELC
+"Kokko, Niklas",SEA,G,Left,21,0,0,0,0.667,"$891,667","$870,000",3 yrs,ELC
+"Primeau, Cayden",MTL,G,Left,25,0,0,0,0.836,"$890,000","$1,100,000",3 yrs,Std
+"Mateiko, Eriks",WSH,LW,Left,19,0,0,0,0.0,"$889,167","$872,500",3 yrs,ELC
+"Protas, Ilya",WSH,LW,Left,18,0,0,0,0.0,"$889,167","$872,500",3 yrs,ELC
+"Lambert, Brad",WPG,C,Right,21,0,1,1,0.0,"$886,667","$950,000",3 yrs,ELC
+"Allen, Cam",WSH,RD,Right,20,0,0,0,0.0,"$886,667","$870,000",3 yrs,ELC
+"Geekie, Conor",TBL,C,Left,20,6,6,12,0.0,"$886,667","$950,000",3 yrs,ELC
+"Mateychuk, Denton",CBJ,LD,Left,20,3,3,6,0.0,"$886,667","$950,000",3 yrs,ELC
+"Mesar, Filip",MTL,RW,Right,21,0,0,0,0.0,"$886,667","$950,000",3 yrs,ELC
+"Kulich, Jiri",BUF,"RW, C",Left,20,12,7,19,0.0,"$886,667","$950,000",3 yrs,ELC
+"Kemell, Joakim",NSH,RW,Right,20,0,0,0,0.0,"$886,667","$950,000",3 yrs,ELC
+"Blomqvist, Joel",PIT,G,Left,23,0,0,0,0.885,"$886,667","$867,500",3 yrs,ELC
+"Ohgren, Liam",MIN,LW,Left,21,1,3,4,0.0,"$886,667","$950,000",3 yrs,ELC
+"Kasper, Marco",DET,C,Left,20,12,14,26,0.0,"$886,667","$950,000",3 yrs,ELC
+"Savoie, Matthew",EDM,C,Right,21,0,1,1,0.0,"$886,667","$950,000",3 yrs,ELC
+"Lamoureux, Maveric",UTA,RD,Right,21,1,2,3,0.0,"$886,667","$950,000",3 yrs,ELC
+"Gaucher, Nathan",ANA,C,Right,21,0,0,0,0.0,"$886,667","$950,000",3 yrs,ELC
+"Ostlund, Noah",BUF,C,Left,21,0,0,0,0.0,"$886,667","$950,000",3 yrs,ELC
+"Pickering, Owen",PIT,LD,Left,21,1,2,3,0.0,"$886,667","$950,000",3 yrs,ELC
+"Schaefer, Reid",NSH,LW,Left,21,0,0,0,0.0,"$886,667","$950,000",3 yrs,ELC
+"Wright, Shane",SEA,"C, LW",Right,21,15,23,38,0.0,"$886,667","$950,000",3 yrs,ELC
+"Mitchell, Travis",NYI,LD,Left,25,0,0,0,0.0,"$882,500","$895,000",2 yrs,ELC
+"Bjarnason, Carson",PHI,G,Left,19,0,0,0,0.0,"$881,667","$870,000",3 yrs,ELC
+"Pulkkinen, Jesse",NYI,LD,Left,20,0,0,0,0.0,"$880,833","$872,500",3 yrs,ELC
+"Clang, Calle",ANA,G,Left,22,0,0,0,0.0,"$878,333","$925,000",3 yrs,ELC
+"Kyrou, Christian",DAL,RD,Right,21,0,0,0,0.0,"$878,333","$870,000",3 yrs,ELC
+"Clara, Damian",ANA,G,Left,20,0,0,0,0.0,"$878,333","$870,000",3 yrs,ELC
+"Soderblom, Elmer",DET,LW,Left,23,3,5,8,0.0,"$878,333","$925,000",3 yrs,ELC
+"Sawchyn, Gracyn",FLA,C,Right,20,0,0,0,0.0,"$878,333","$870,000",3 yrs,ELC
+"Lopina, Josh",ANA,C,Right,24,0,0,0,0.0,"$878,333","$925,000",3 yrs,ELC
+"Pinelli, Luca",CBJ,C,Left,19,0,0,0,0.0,"$878,333","$870,000",3 yrs,ELC
+"Misiak, Martin",CHI,RW,Left,20,0,0,0,0.0,"$878,333","$870,000",3 yrs,ELC
+"Bertucci, Tristan",DAL,LD,Left,19,0,0,0,0.0,"$878,333","$870,000",3 yrs,ELC
+"Chibrikov, Nikita",WPG,RW,Left,22,2,1,3,0.0,"$875,833","$867,500",3 yrs,ELC
+"Schmid, Akira",VGK,G,Left,24,0,0,0,1.0,"$875,000","$875,000",2 yrs,Std
+"Laferriere, Alex",LAK,"RW, LW",Right,23,15,17,32,0.0,"$875,000","$875,000",3 yrs,ELC
+"Webber, Cade",TOR,LD,Left,24,0,0,0,0.0,"$875,000","$875,000",2 yrs,ELC
+"George, Carter",LAK,G,Left,18,0,0,0,0.0,"$875,000","$875,000",3 yrs,ELC
+"Brunicke, Harrison",PIT,RD,Right,18,0,0,0,0.0,"$875,000","$875,000",3 yrs,ELC
+"Belliveau, Isaac",PIT,LD,Left,22,0,0,0,0.0,"$875,000","$875,000",3 yrs,ELC
+"Quillan, Jacob",TOR,C,Left,23,0,0,0,0.0,"$875,000","$875,000",2 yrs,ELC
+"Lankinen, Kevin",VAN,G,Left,29,0,1,0,0.904,"$875,000","$875,000",1 yrs,Std
+"Mailloux, Logan",MTL,RD,Right,21,2,2,4,0.0,"$875,000","$925,000",3 yrs,ELC
+"Murray, Matt",TOR,G,Left,30,0,0,0,0.879,"$875,000","$875,000",1 yrs,Std
+"Robertson, Nicholas",TOR,"LW, RW",Left,23,11,6,17,0.0,"$875,000","$875,000",1 yrs,Std
+"Grebenkin, Nikita",PHI,RW,Left,21,0,0,0,0.0,"$875,000","$875,000",3 yrs,ELC
+"Hlavaj, Samuel",MIN,G,Left,23,0,0,0,0.0,"$875,000","$870,000",2 yrs,ELC
+"Howe, Tanner",PIT,LW,Left,19,0,0,0,0.0,"$875,000","$875,000",3 yrs,ELC
+"Nesterenko, Nikita",ANA,"LW, C",Left,23,1,1,2,0.0,"$874,125","$874,125",1 yrs,Std
+"Bordeleau, Thomas",SJS,"LW, RW, C",Left,23,0,0,0,0.0,"$874,125","$874,125",1 yrs,Std
+"Pacioretty, Max",TOR,"LW, RW",Left,36,5,8,13,0.0,"$873,770","$873,770",1 yrs,Std
+"Cristall, Andrew",WSH,LW,Left,20,0,0,0,0.0,"$873,333","$870,000",3 yrs,ELC
+"Bradley, Chase",COL,LW,Left,23,0,0,0,0.0,"$872,500","$872,500",2 yrs,ELC
+"Saarinen, Kim",SEA,G,Left,18,0,0,0,0.0,"$872,500","$872,500",3 yrs,ELC
+"Gaucher, Jacob",PHI,C,Right,24,0,0,0,0.0,"$870,500","$870,500",2 yrs,ELC
+"Fulp, Aidan",NYI,RD,Right,25,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Kaskimaki, Aleksanteri",STL,C,Left,21,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Doucet, Alexandre",DET,LW,Left,23,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Hyry, Arttu",DAL,RW,Right,23,0,1,1,0.0,"$870,000","$870,000",2 yrs,ELC
+"Squires, Cam",NJD,RW,Right,19,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Thiesing, Camden",NYI,C,Right,23,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Felton, Christian",VAN,RD,Right,25,0,0,0,0.0,"$870,000","$870,000",1 yrs,ELC
+"Sedoff, Christoffer",VGK,LD,Left,23,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Punnett, Connor",DAL,LD,Left,21,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Wendt, Dylan",NJD,RW,Right,24,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Gill, Dyllan",TBL,RD,Right,20,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Lilleberg, Emil",TBL,"LD, RD",Left,24,0,14,14,0.0,"$870,000","$870,000",2 yrs,ELC
+"Szturc, Gabriel",TBL,C,Left,21,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Dvorak, Jakub",LAK,LD,Left,19,0,0,0,0.0,"$870,000","$900,000",3 yrs,ELC
+"Rychlovsky, Jakub",DET,LW,Left,23,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Stefan, James",EDM,RW,Right,21,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Nelson, Jaxon",BOS,C,Right,24,0,0,0,0.0,"$870,000","$870,000",1 yrs,ELC
+"Innala, Jere",COL,LW,Left,26,0,0,0,0.0,"$870,000","$870,000",1 yrs,ELC
+"Nurmi, Jesse",NYI,LW,Left,20,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Pekarcik, Juraj",STL,LW,Left,19,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Hryckowian, Justin",DAL,C,Left,24,0,1,1,0.0,"$870,000","$870,000",2 yrs,ELC
+"McDonald, Kyle",DAL,RW,Right,23,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Roed, Lleyton",SEA,LW,Left,22,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Morrison, Logan",SEA,C,Right,22,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Krys, Luke",DAL,RD,Right,24,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Toporowski, Luke",MIN,LW,Left,23,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Maggio, Matthew",NYI,RW,Right,22,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Poitras, Matthew",BOS,"C, LW, RW",Right,21,1,10,11,0.0,"$870,000","$870,000",3 yrs,ELC
+"Sasson, Max",VAN,C,Left,24,2,4,6,0.0,"$870,000","$870,000",2 yrs,ELC
+"Matikka, Miko",UTA,RW,Right,21,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Roelens, Milo",TBL,C,Left,22,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Okuliar, Oliver",FLA,LW,Left,24,0,0,0,0.0,"$870,000","$870,000",1 yrs,ELC
+"Pavel, Ondrej",NSH,C,Left,24,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Dube, Pierrick",WSH,RW,Right,24,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Burns, Quinton",STL,LD,Left,19,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Morton, Sam",CGY,C,Left,25,0,0,0,0.0,"$870,000","$870,000",1 yrs,Std
+"Johannesson, Samuel",STL,RD,Right,24,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Suchanek, Tomas",ANA,G,Left,21,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Nielsen, Tristen",VAN,C,Left,25,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Robertson, Tucker",SEA,C,Right,21,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Mueller, Ty",VAN,C,Left,22,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Brennan, Tyler",NJD,G,Left,21,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Mancini, Victor",VAN,RD,Right,22,1,4,5,0.0,"$870,000","$870,000",2 yrs,ELC
+"Ostman, Victor",SEA,G,Left,24,0,0,0,0.0,"$870,000","$870,000",2 yrs,ELC
+"Neuchev, Viktor",BUF,LW,Left,21,0,0,0,0.0,"$870,000","$870,000",3 yrs,ELC
+"Ignatjew, Waltteri",CGY,G,Left,25,0,0,0,0.0,"$870,000","$870,000",1 yrs,ELC
+"Skoog, Wilmer",FLA,C,Left,25,0,0,0,0.0,"$870,000","$870,000",1 yrs,ELC
+"Allard, Owen",UTA,C,Left,21,0,0,0,0.0,"$869,167","$872,500",3 yrs,ELC
+"Badinka, Dominik",CAR,RD,Right,19,0,0,0,0.0,"$869,050","$872,500",3 yrs,ELC
+"Jefferies, Alex",NYI,LW,Right,23,0,0,0,0.0,"$867,500","$867,500",2 yrs,ELC
+"Tuomisto, Antti",DET,RD,Right,24,0,0,0,0.0,"$867,500","$867,500",2 yrs,ELC
+"Berard, Brett",NYR,LW,Left,22,4,4,8,0.0,"$867,500","$867,500",3 yrs,ELC
+"Bankier, Caedan",MIN,C,Left,22,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Misyul, Daniil",BOS,LD,Left,24,0,0,0,0.0,"$867,500","$867,500",2 yrs,ELC
+"Bavaro, Drew",BOS,RD,Right,24,0,0,0,0.0,"$867,500","$867,500",1 yrs,ELC
+"Duke, Dylan",TBL,LW,Left,22,1,0,1,0.0,"$867,500","$867,500",3 yrs,ELC
+"Peterson, Dylan",STL,C,Right,23,0,0,0,0.0,"$867,500","$867,500",2 yrs,ELC
+"Liukas, Eetu",NYI,LW,Left,22,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Cardwell, Ethan",SJS,RW,Right,22,1,0,1,0.0,"$867,500","$867,500",3 yrs,ELC
+"Malek, Jakub",NJD,G,Left,22,0,0,0,0.0,"$867,500","$867,500",2 yrs,ELC
+"Chmelar, Jaroslav",NYR,RW,Right,21,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Grubbe, Jayden",EDM,C,Right,22,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Struble, Jayden",MTL,"RD, LD",Left,23,2,7,9,0.0,"$867,500","$867,500",2 yrs,ELC
+"Ertel, Justin",DAL,LW,Left,21,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Loof, Leo",STL,LD,Left,22,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Chrona, Magnus",NSH,G,Left,24,0,0,0,0.0,"$867,500","$867,500",2 yrs,ELC
+"Groshev, Maxim",TBL,RW,Left,23,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Crozier, Maxwell",TBL,RD,Right,24,0,0,0,0.0,"$867,500","$867,500",2 yrs,ELC
+"Novikov, Nikita",BUF,LD,Left,21,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Huuhtanen, Niko",TBL,RW,Right,21,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Becher, Ondrej",DET,C,Left,21,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Ford, Parker",WPG,C,Right,24,1,0,1,0.0,"$867,500","$867,500",2 yrs,ELC
+"Duran, Riley",BOS,C,Right,23,0,0,0,0.0,"$867,500","$867,500",2 yrs,ELC
+"Robertsson, Simon",STL,RW,Left,22,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Kuntar, Trevor",BOS,C,Left,23,0,0,0,0.0,"$867,500","$867,500",2 yrs,ELC
+"Lennox, Tristan",NYI,G,Left,22,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Ottavainen, Ville",SEA,RD,Right,22,0,0,0,0.0,"$867,500","$867,500",3 yrs,ELC
+"Xhekaj, Florian",MTL,LW,Left,20,0,0,0,0.0,"$866,667","$870,000",3 yrs,ELC
+"Stancl, Jakub",STL,C,Left,19,0,0,0,0.0,"$866,667","$865,000",3 yrs,ELC
+"Goldsmith, Terrell",UTA,LD,Left,19,0,0,0,0.0,"$866,667","$870,000",3 yrs,ELC
+"Price, Caden",SEA,LD,Left,19,0,0,0,0.0,"$865,833","$867,500",3 yrs,ELC
+"Haight, Hunter",MIN,C,Right,20,0,0,0,0.0,"$865,833","$870,000",3 yrs,ELC
+"Wahlberg, Anton",BUF,C,Left,19,0,0,0,0.0,"$865,000","$870,000",3 yrs,ELC
+"Gauthier, Ethan",TBL,RW,Right,20,0,0,0,0.0,"$865,000","$870,000",3 yrs,ELC
+"Hayes, Gavin",CHI,LW,Right,20,0,0,0,0.0,"$865,000","$870,000",3 yrs,ELC
+"Gojsic, Hiroki",NSH,RW,Right,18,0,0,0,0.0,"$865,000","$865,000",3 yrs,ELC
+"Masters, Kyle",MIN,RD,Right,21,0,0,0,0.0,"$865,000","$865,000",3 yrs,ELC
+"Alscher, Marek",FLA,LD,Left,20,0,0,0,0.0,"$865,000","$870,000",3 yrs,ELC
+"Warren, Noah",ANA,RD,Right,20,0,0,0,0.0,"$865,000","$870,000",3 yrs,ELC
+"Nordh, Noel",UTA,LW,Left,20,0,0,0,0.0,"$865,000","$865,000",3 yrs,ELC
+"Ratzlaff, Scott",BUF,G,Left,20,0,0,0,0.0,"$865,000","$865,000",3 yrs,ELC
+"Luneau, Tristan",ANA,RD,Right,21,0,0,0,0.0,"$865,000","$870,000",3 yrs,ELC
+"Sidorov, Yegor",ANA,RW,Left,20,0,0,0,0.0,"$865,000","$865,000",3 yrs,ELC
+"Nause, Evan",FLA,LD,Left,22,0,0,0,0.0,"$864,167","$892,500",3 yrs,ELC
+"Akey, Beau",EDM,RD,Right,20,0,0,0,0.0,"$863,333","$870,000",3 yrs,ELC
+"Clarke, Brandt",LAK,RD,Right,22,5,22,27,0.0,"$863,333","$832,500",3 yrs,ELC
+"Othmann, Brennan",NYR,LW,Left,22,0,0,0,0.0,"$863,333","$832,500",3 yrs,ELC
+"Lambos, Carson",MIN,LD,Left,22,0,0,0,0.0,"$863,333","$832,500",3 yrs,ELC
+"Stillman, Chase",PIT,RW,Right,21,0,0,0,0.0,"$863,333","$832,500",3 yrs,ELC
+"Zary, Connor",CGY,"LW, C",Left,23,12,12,24,0.0,"$863,333","$832,500",3 yrs,ELC
+"Lysell, Fabian",BOS,RW,Right,22,0,0,0,0.0,"$863,333","$832,500",3 yrs,ELC
+"Lapierre, Hendrix",WSH,"C, RW",Left,23,0,8,8,0.0,"$863,333","$832,500",3 yrs,ELC
+"Quinn, Jack",BUF,RW,Right,23,10,14,24,0.0,"$863,333","$832,500",3 yrs,ELC
+"Perreault, Jacob",EDM,RW,Right,22,0,0,0,0.0,"$863,333","$832,500",3 yrs,ELC
+"Guhle, Kaiden",MTL,"LD, RD",Left,23,4,10,14,0.0,"$863,333","$832,500",3 yrs,ELC
+"Vaisanen, Kalle",NYR,LW,Right,22,0,0,0,0.0,"$863,333","$860,000",3 yrs,ELC
+"Rossi, Marco",MIN,C,Left,23,21,32,53,0.0,"$863,333","$832,500",3 yrs,ELC
+"Andonovski, Matthew",OTT,LD,Left,20,0,0,0,0.0,"$863,333","$855,000",3 yrs,ELC
+"Olausson, Oskar",COL,RW,Left,22,0,0,0,0.0,"$863,333","$832,500",3 yrs,ELC
+"Greig, Ridly",OTT,"C, LW, RW",Left,22,11,12,23,0.0,"$863,333","$832,500",3 yrs,ELC
+"Cossa, Sebastian",DET,G,Left,22,0,0,0,0.857,"$863,333","$832,500",3 yrs,ELC
+"Boucher, Tyler",OTT,RW,Right,22,0,0,0,0.0,"$863,333","$832,500",3 yrs,ELC
+"Foerster, Tyson",PHI,"LW, RW",Right,23,16,14,30,0.0,"$863,333","$832,500",3 yrs,ELC
+"Eklund, William",SJS,"LW, RW, C",Left,22,14,35,49,0.0,"$863,333","$832,500",3 yrs,ELC
+"L'Heureux, Zachary",NSH,LW,Left,21,4,9,13,0.0,"$863,333","$832,500",3 yrs,ELC
+"Bolduc, Zack",STL,"RW, LW, C",Left,22,12,13,25,0.0,"$863,333","$832,500",3 yrs,ELC
+"Wheatcroft, Chase",DAL,C,Left,22,0,0,0,0.0,"$862,500","$870,000",3 yrs,ELC
+"Spacek, David",MIN,RD,Right,22,0,0,0,0.0,"$862,500","$862,500",3 yrs,ELC
+"Trikozov, Gleb",CAR,LW,Right,20,0,0,0,0.0,"$862,500","$862,500",3 yrs,ELC
+"Davidson, Jared",MTL,C,Left,22,0,0,0,0.0,"$862,500","$860,000",2 yrs,ELC
+"Gunler, Noel",CAR,"RW, LW",Right,23,0,0,0,0.0,"$862,500","$862,500",3 yrs,ELC
+"Edmonds, Lucas",NYR,RW,Right,24,0,0,0,0.0,"$861,667","$870,000",3 yrs,ELC
+"Milne, Michael",MIN,LW,Left,22,0,0,0,0.0,"$861,667","$870,000",3 yrs,ELC
+"Burke, Nolan",SJS,C,Left,22,0,0,0,0.0,"$861,667","$870,000",3 yrs,ELC
+"Murashov, Sergey",PIT,G,Right,20,0,0,0,0.0,"$861,110","$861,110",3 yrs,ELC
+"Gendron, Alexis",PHI,RW,Left,21,0,0,0,0.0,"$860,000","$860,000",3 yrs,ELC
+"Guryev, Artem",SJS,LD,Left,21,0,0,0,0.0,"$860,000","$860,000",3 yrs,ELC
+"Ungar, Connor",EDM,G,Left,23,0,0,0,0.0,"$860,000","$860,000",2 yrs,ELC
+"Pitre, Coulson",ANA,RW,Right,20,0,0,0,0.0,"$860,000","$860,000",3 yrs,ELC
+"Brunet, Frederic",BOS,LD,Left,21,0,0,0,0.0,"$860,000","$860,000",3 yrs,ELC
+"Dumais, Jordan",CBJ,RW,Right,20,0,0,0,0.0,"$860,000","$870,000",3 yrs,ELC
+"Johansson, Loke",BOS,LD,Left,19,0,0,0,0.0,"$860,000","$860,000",3 yrs,ELC
+"Del Bel Belluz, Luca",CBJ,C,Left,21,2,6,8,0.0,"$860,000","$870,000",3 yrs,ELC
+"Alriksson, Vilmer",VAN,LW,Left,20,0,0,0,0.0,"$860,000","$860,000",3 yrs,ELC
+"Kisakov, Aleksandr",BUF,LW,Left,22,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"MacArthur, Bennett",BUF,LW,Left,24,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Trineyev, Bogdan",WSH,RW,Right,23,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Hanas, Cross",DET,LW,Left,23,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Rybinski, Henrik",WSH,RW,Right,23,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Luypen, Jalen",CHI,C,Left,22,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Frasca, Jordan",NSH,C,Left,23,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Nousiainen, Kim",LAK,LD,Left,24,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Szuber, Maksymilian",UTA,"RD, LD",Left,22,0,0,0,0.0,"$859,167","$860,000",3 yrs,ELC
+"Staios, Nathan",FLA,LD,Left,23,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Korczak, Ryder",TBL,C,Right,22,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Gauthier, Taylor",PIT,G,Right,24,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Glover, Ty",VAN,C,Left,24,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Kartye, Tye",SEA,"LW, RW, C",Left,23,4,4,8,0.0,"$859,167","$867,500",3 yrs,ELC
+"Dufour, William",COL,RW,Right,23,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Uens, Zachary",FLA,LD,Left,23,0,0,0,0.0,"$859,167","$867,500",3 yrs,ELC
+"Butler, Cameron",CBJ,RW,Right,22,0,0,0,0.0,"$858,333","$857,500",3 yrs,ELC
+"McCue, Max",CBJ,C,Left,22,0,0,0,0.0,"$858,333","$857,500",3 yrs,ELC
+"Vikman, Jesper",VGK,G,Left,23,0,0,0,0.0,"$858,000","$858,000",3 yrs,ELC
+"White, Gavin",DAL,RD,Right,22,0,0,0,0.0,"$857,500","$870,000",3 yrs,ELC
+"Bell, Parker",CGY,LW,Left,21,0,0,0,0.0,"$857,500","$857,500",3 yrs,ELC
+"Hirvonen, Roni",TOR,C,Left,23,0,0,0,0.0,"$856,667","$860,000",3 yrs,ELC
+"Niemela, Topi",TOR,RD,Right,22,0,0,0,0.0,"$856,667","$860,000",3 yrs,ELC
+"Trudeau, William",MTL,LD,Left,22,0,0,0,0.0,"$856,667","$860,000",3 yrs,ELC
+"Del Mastro, Ethan",CHI,"RD, LD",Left,22,2,2,4,0.0,"$855,833","$867,500",3 yrs,ELC
+"St. Martin, Hunter",FLA,LW,Left,19,0,0,0,0.0,"$855,833","$855,000",3 yrs,ELC
+"Peterka, JJ",BUF,"RW, LW",Left,23,19,32,51,0.0,"$855,833","$832,500",3 yrs,ELC
+"O'Rourke, Ryan",MIN,LD,Left,22,0,0,0,0.0,"$855,833","$832,500",3 yrs,ELC
+"Gylander, Carter",DET,G,Left,23,0,0,0,0.0,"$855,000","$855,000",2 yrs,ELC
+"Clattenburg, Connor",EDM,C,Left,19,0,0,0,0.0,"$855,000","$855,000",3 yrs,ELC
+"Ollas, Hugo",NYR,G,Left,22,0,0,0,0.0,"$855,000","$855,000",2 yrs,ELC
+"Vilmanis, Sandis",FLA,LW,Left,21,0,0,0,0.0,"$855,000","$855,000",3 yrs,ELC
+"Simoneau, Xavier",MTL,C,Left,23,0,0,0,0.0,"$855,000","$855,000",2 yrs,ELC
+"Montgomery, Bryce",CAR,RD,Right,22,0,0,0,0.0,"$854,910","$854,910",3 yrs,ELC
+"Beck, Owen",MTL,C,Right,21,0,1,1,0.0,"$853,333","$870,000",3 yrs,ELC
+"Jamsen, Aatu",LAK,RW,Left,22,0,0,0,0.0,"$852,500","$852,500",2 yrs,ELC
+"Wiebe, Jaxsen",ANA,RW,Right,22,0,0,0,0.0,"$852,500","$852,500",3 yrs,ELC
+"Lawrence, Kaleb",LAK,C,Left,22,0,0,0,0.0,"$852,500","$852,500",3 yrs,ELC
+"Buteyets, Vyacheslav",ANA,G,Left,22,0,0,0,0.0,"$852,500","$852,500",2 yrs,ELC
+"Dean, Zach",STL,C,Left,22,0,0,0,0.0,"$852,500","$832,500",3 yrs,ELC
+"Demek, Jakub",VGK,C,Left,21,0,0,0,0.0,"$851,683","$852,000",3 yrs,ELC
+"Akhtyamov, Artur",TOR,G,Left,23,0,0,0,0.0,"$851,667","$850,000",3 yrs,ELC
+"Hanzel, Jeremy",NSH,LD,Left,22,0,0,0,0.0,"$851,667","$855,000",3 yrs,ELC
+"Hofer, Ryan",WSH,C,Left,22,0,0,0,0.0,"$851,667","$855,000",3 yrs,ELC
+"Tverberg, Ryan",TOR,C,Right,23,0,0,0,0.0,"$851,667","$850,000",3 yrs,ELC
+"Lipkin, Sam",UTA,LW,Left,22,0,0,0,0.0,"$851,667","$850,000",3 yrs,ELC
+"Peksa, Vyacheslav",TOR,G,Left,22,0,0,0,0.0,"$851,667","$850,000",3 yrs,ELC
+"Boyko, Talyn",NYR,G,Left,22,0,0,0,0.0,"$850,833","$860,000",3 yrs,ELC
+"Greer, A.J.",FLA,LW,Left,28,6,11,17,0.0,"$850,000","$925,000",2 yrs,Std
+"Silovs, Arturs",VAN,G,Left,23,0,0,0,0.858,"$850,000","$900,000",2 yrs,Std
+"Kraws, Ben",DAL,G,Left,24,0,0,0,0.0,"$850,000","$850,000",1 yrs,ELC
+"White, Colin",SJS,"RW, LW, C",Right,28,0,0,0,0.0,"$850,000","$850,000",1 yrs,Std (2-way)
+"Wolf, Dustin",CGY,G,Left,23,0,3,0,0.914,"$850,000","$850,000",2 yrs,Std (2-way)
+"Roobroeck, Dylan",NYR,C,Left,20,0,0,0,0.0,"$850,000","$850,000",3 yrs,ELC
+"Jurmo, Joni",CGY,LD,Left,22,0,0,0,0.0,"$850,000","$850,000",2 yrs,ELC
+"Jaaska, Juha",CAR,LW,Left,27,0,4,4,0.0,"$850,000","$850,000",1 yrs,ELC
+"Seminoff, Matthew",DAL,RW,Right,21,0,0,0,0.0,"$850,000","$850,000",3 yrs,ELC
+"Gregor, Noah",SJS,"RW, LW, C",Left,26,4,2,6,0.0,"$850,000","$850,000",1 yrs,Std
+"Attard, Ronnie",EDM,RD,Right,25,0,0,0,0.0,"$850,000","$925,000",2 yrs,Std
+"Malinski, Sam",COL,RD,Right,26,2,7,9,0.0,"$850,000","$850,000",2 yrs,Std
+"Holmstrom, Simon",NYI,"RW, LW",Left,23,14,20,34,0.0,"$850,000","$850,000",1 yrs,Std
+"Bauer, Tyrel",WPG,RD,Right,22,0,0,0,0.0,"$850,000","$855,000",3 yrs,ELC
+"Kozak, Tyson",BUF,C,Left,22,1,0,1,0.0,"$850,000","$855,556",3 yrs,ELC
+"Balinskis, Uvis",FLA,"RD, LD",Left,28,4,11,15,0.0,"$850,000","$850,000",2 yrs,Std (Ext)
+"Girgensons, Zemgus",TBL,"LW, C",Left,31,2,4,6,0.0,"$850,000","$1,000,000",3 yrs,Std
+"Saville, Isaiah",VGK,G,Right,24,0,0,0,0.0,"$849,667","$858,000",3 yrs,ELC
+"Grans, Helge",PHI,RD,Right,22,0,1,1,0.0,"$847,500","$832,500",3 yrs,ELC
+"Foudy, Jean-Luc",COL,C,Right,22,0,0,0,0.0,"$847,500","$832,500",3 yrs,ELC
+"Sourdif, Justin",FLA,RW,Right,22,1,0,1,0.0,"$847,500","$832,500",3 yrs,ELC
+"Knazko, Samuel",CBJ,LD,Left,22,0,0,0,0.0,"$847,500","$832,500",3 yrs,ELC
+"Edstrom, Adam",NYR,"RW, C",Left,24,5,4,9,0.0,"$846,667","$855,000",3 yrs,ELC
+"Stranges, Antonio",DAL,LW,Left,23,0,0,0,0.0,"$846,667","$830,000",3 yrs,ELC
+"Samson, Ethan",PHI,RD,Right,21,0,0,0,0.0,"$846,667","$865,000",3 yrs,ELC
+"Kokkonen, Mikko",TOR,LD,Left,24,0,0,0,0.0,"$846,667","$855,000",3 yrs,ELC
+"Kerins, Rory",CGY,C,Left,22,0,4,4,0.0,"$846,667","$855,000",3 yrs,ELC
+"Savoie, Samuel",CHI,LW,Left,20,0,0,0,0.0,"$846,667","$870,000",3 yrs,ELC
+"Zherenko, Vadim",STL,G,Left,24,0,0,0,0.0,"$846,667","$855,000",3 yrs,ELC
+"Ziemmer, Koehn",LAK,RW,Right,20,0,0,0,0.0,"$845,833","$875,000",3 yrs,ELC
+"Roest, Austin",NSH,RW,Right,21,0,0,0,0.0,"$845,000","$845,000",3 yrs,ELC
+"Finnie, Emmitt",DET,C,Left,19,0,0,0,0.0,"$845,000","$845,000",3 yrs,ELC
+"Pinelli, Francesco",LAK,C,Left,21,0,0,0,0.0,"$845,000","$867,500",3 yrs,ELC
+"Ivan, Ivan",COL,C,Left,22,5,3,8,0.0,"$845,000","$845,000",2 yrs,ELC
+"Khazheev, Ruslan",CAR,G,Left,20,0,0,0,0.0,"$845,000","$845,000",3 yrs,ELC
+"Zellweger, Olen",ANA,"RD, LD",Left,21,5,9,14,0.0,"$844,167","$832,500",3 yrs,ELC
+"Ansons, Raivis",PIT,RW,Left,23,0,0,0,0.0,"$844,167","$852,500",3 yrs,ELC
+"Hildeby, Dennis",TOR,G,Left,23,0,0,0,0.878,"$843,333","$855,000",3 yrs,ELC
+"Bjorklund, Garin",WSH,G,Left,22,0,0,0,0.0,"$843,333","$850,000",3 yrs,ELC
+"Chiasson, Jake",OTT,RW,Right,21,0,0,0,0.0,"$843,333","$845,000",3 yrs,ELC
+"Furlong, Jake",SJS,LD,Left,21,0,0,0,0.0,"$841,667","$862,500",3 yrs,ELC
+"Malatesta, James",CBJ,LW,Left,21,0,0,0,0.0,"$841,667","$862,500",3 yrs,ELC
+"Dureau, Jaydon",TBL,LW,Left,24,0,0,0,0.0,"$841,667","$850,000",3 yrs,ELC
+"Milic, Thomas",WPG,G,Left,21,0,0,0,0.0,"$841,667","$835,000",3 yrs,ELC
+"Cranley, Will",STL,G,Left,23,0,0,0,0.0,"$841,667","$850,000",3 yrs,ELC
+"Lindbom, Carl",VGK,G,Left,21,0,0,0,0.0,"$840,000","$840,000",3 yrs,ELC
+"Kuefler, Daylan",NYI,LW,Left,23,0,0,0,0.0,"$840,000","$840,000",3 yrs,ELC
+"Lombardi, Amadeus",DET,C,Left,21,0,0,0,0.0,"$838,333","$870,000",3 yrs,ELC
+"McConnell-Barker, Bryce",NYR,C,Left,20,0,0,0,0.0,"$838,333","$870,000",3 yrs,ELC
+"Pettersson, Elias",VAN,LD,Left,21,0,2,2,0.0,"$838,333","$870,000",3 yrs,ELC
+"Pieniniemi, Emil",PIT,LD,Left,20,0,0,0,0.0,"$838,333","$870,000",3 yrs,ELC
+"George, Isaiah",NYI,LD,Left,21,1,4,5,0.0,"$838,333","$870,000",3 yrs,ELC
+"Filmon, Josh",NJD,LW,Left,20,0,0,0,0.0,"$838,333","$870,000",3 yrs,ELC
+"Lind, Kalan",NSH,LW,Left,20,0,0,0,0.0,"$838,333","$870,000",3 yrs,ELC
+"Buchinger, Michael",STL,LD,Left,20,0,0,0,0.0,"$838,333","$870,000",3 yrs,ELC
+"Mynio, Sawyer",VAN,LD,Left,19,0,0,0,0.0,"$838,333","$870,000",3 yrs,ELC
+"Krygier, Cole",LAK,LD,Left,24,0,0,0,0.0,"$837,500","$837,500",2 yrs,ELC
+"Caulfield, Judd",ANA,RW,Right,23,0,0,0,0.0,"$837,500","$837,500",2 yrs,ELC
+"Annunen, Justus",NSH,G,Left,25,0,0,0,0.872,"$837,500","$800,000",2 yrs,Std (Ext)
