@@ -83,8 +83,14 @@ Sunday - worked on EDA, completed goalie salary linear regression
     
 Monday - worked on EDA, setup first stage of streamlit page
 
-Tuesday - TO Do
+Tuesday - finished
             - make ai team recommeder model
             - implement logic into streamlit
+
+Wednesday - TO Do
+            - finish unsupervised simulation and implement it into streamlit
             - if time permits, work on simulation 
                                         - need clean dataset of all players then write script.
+                                        - used unsupervised and pca as it had components that I could change weights unlike kmeans
+
+USE ROMAN JOSI AS AN EXAMPLE OF AI MAKING A PERFECT TEAM
