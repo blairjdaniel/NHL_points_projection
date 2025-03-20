@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd
 from ai_team_generator import generate_ai_team, preprocess_data
 from recommender import find_closest_defense, find_closest_forward
-from game_simulator import simulate_game, generate_feature_loadings, preprocess_player_data
+from game_simulator import simulate_game, generate_feature_loadings, preprocess_player_data, create_results_table
 import streamlit.components.v1 as components
 
 
@@ -43,6 +43,8 @@ if 'pending_player' not in st.session_state:
     st.session_state.pending_player = None  # Track the player pending confirmation
 if 'first_selected_player' not in st.session_state:
     st.session_state.first_selected_player = None  # Track the first player selected by the user
+if 'filtered_players' not in st.session_state:
+    st.session_state.filtered_players = None # Track the filtered players by salary
 
 # Team composition requirements
 MAX_FORWARDS = 3
@@ -52,6 +54,7 @@ st.title('Player Recommender')
 
 player_type = st.selectbox('Select player type:', ['Defense', 'Forward'])
 target_player_name = st.text_input('Enter the name of the target player:')
+salary_limit = st.number_input('Enter maximum salary:', min_value=0, value=0)
 
 def make_clickable(name):
     return f'<a href="https://puckpedia.com/player/{name.replace(" ", "-")}" class="pp-player">{name}</a>'
@@ -86,10 +89,41 @@ if st.button('Find Similar Players'):
             display_columns = ['name', 'position', 'salary']
             closest_players_html = closest_players[display_columns].to_html(escape=False, index=False)
 
-            closest_players_html = closest_players.to_html(escape=False, index=False)
+            #closest_players_html = closest_players.to_html(escape=False, index=False)
             st.write(closest_players_html, unsafe_allow_html=True)
 
+if st.button('Filter Players by Salary'):
+    if salary_limit > 0:
+        filtered_players = all_players_data[all_players_data['salary'] <= salary_limit]
+        if filtered_players.empty:
+            st.warning(f"No players found with salary under ${salary_limit:,}.")
+        else:
+            st.session_state.filtered_players = filtered_players
+            #st.write(f'Players with salary under ${salary_limit:,}:')
+            filtered_players['name'] = filtered_players['name'].apply(make_clickable)
+            display_columns = ['name', 'position', 'salary']
+            filtered_players_html = filtered_players[display_columns].to_html(escape=False, index=False)
+            #st.write(filtered_players_html, unsafe_allow_html=True)
+    else:
+        st.warning("Please enter a valid salary limit.")    
 
+    # Create a close button
+    col1, col2 = st.columns([10, 1])
+    with col1:
+        st.markdown(
+            f"""
+            <div style="overflow-y: scroll; height: 300px;">
+                {filtered_players_html}
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+        
+    with col2:
+        if st.button('X'):
+            st.session_state.filtered_players = None
+
+            
 # Layout for user-selected team and AI-generated team
 st.markdown(
     """
@@ -174,7 +208,7 @@ with st.container():
         if col1.button('Remove', key=f"remove_{index}"):
             st.session_state.user_salary_cap += row['salary']
             st.session_state.selected_players = [p for p in st.session_state.selected_players if p['name'] != row['name']]
-            st.experimental_set_query_params()  # Trigger a rerun
+            st.query_params()  # Trigger a rerun
         col2.write(f"{row['name']} ({row['position']}) - ${row['salary']:,}")
 
     st.markdown('</div>', unsafe_allow_html=True)
@@ -200,19 +234,43 @@ with st.container():
 
 st.markdown('</div>', unsafe_allow_html=True)
 
+
+user_team_filepath = '/Users/blairjdaniel/lighthouse/lighthouse/NHL/NHL_points_projection/files/team_data/user_team.csv'
+ai_team_filepath = '/Users/blairjdaniel/lighthouse/lighthouse/NHL/NHL_points_projection/files/team_data/ai_team.csv'
+loadings_filepath = '/Users/blairjdaniel/lighthouse/lighthouse/NHL/NHL_points_projection/files/master_copies/feature_loadings.csv'
 # Simulate the game
 if st.button('Simulate Game'):
-    user_team_filepath = '/Users/blairjdaniel/lighthouse/lighthouse/NHL/files/team_data/user_team.csv'
-    ai_team_filepath = '/Users/blairjdaniel/lighthouse/lighthouse/NHL/files/team_data/ai_team.csv'
-    loadings_filepath = '/Users/blairjdaniel/lighthouse/lighthouse/NHL/files/master_copies/feature_loadings.csv'
-    
     # Save the current teams to CSV files
     user_team_df = pd.DataFrame(st.session_state.selected_players)
     ai_team_df = pd.DataFrame(st.session_state.ai_generated_team)
+
+    #  # Add a unique identifier to the player names to distinguish between user and AI teams
+    # user_team_df['name'] = 'User_' + user_team_df['name']
+    # ai_team_df['name'] = 'AI_' + ai_team_df['name']
+
+      # Merge with all_players_data to include all performance metrics
+    user_team_df = user_team_df.merge(all_players_data, on=['name', 'position', 'salary'], how='left')
+    ai_team_df = ai_team_df.merge(all_players_data, on=['name', 'position', 'salary'], how='left')
+    
+    # Drop duplicate columns
+    user_team_df = user_team_df.loc[:, ~user_team_df.columns.str.endswith('_y')]
+    user_team_df.columns = user_team_df.columns.str.replace('_x', '', regex=False)
+    
+    ai_team_df = ai_team_df.loc[:, ~ai_team_df.columns.str.endswith('_y')]
+    ai_team_df.columns = ai_team_df.columns.str.replace('_x', '', regex=False)  
+
+    # Drop unnecessary columns
+    user_team_df = user_team_df.drop(columns=['Unnamed: 0', 'distances'], errors='ignore')
+    ai_team_df = ai_team_df.drop(columns=['Unnamed: 0', 'distances'], errors='ignore')
+
+    # Fill NaN values with 0
+    user_team_df = user_team_df.fillna(0)
+    ai_team_df = ai_team_df.fillna(0)
+
     user_team_df.to_csv(user_team_filepath, index=False)
     ai_team_df.to_csv(ai_team_filepath, index=False)
     
-    final_user_score, final_ai_score = simulate_game(user_team_filepath, ai_team_filepath, loadings_filepath)
+    final_user_score, final_ai_score, user_player_scores, ai_player_scores, user_contributions, ai_contributions = simulate_game(user_team_filepath, ai_team_filepath, loadings_filepath)
     
     st.write(f"Team User: {final_user_score}")
     st.write(f"Team AI: {final_ai_score}")
@@ -222,11 +280,18 @@ if st.button('Simulate Game'):
     else:
         st.success("Team AI wins!")
 
-# Debug log in browser console.
+    # Create and display the results table
+    results_table = create_results_table(user_player_scores, ai_player_scores, user_contributions, ai_contributions)
+    st.write(results_table)
+
+    # Plot player scores
+    #plot_player_scores(user_player_scores, ai_player_scores, user_contributions, ai_contributions)
+
+# #Debug log in browser console.
 # components.html(f"""
 # <script>
 #     console.log("Selected Players: {json.dumps(st.session_state.selected_players)}");
-#     console.log("AI-Generated Players: {json.dumps(st.session_state.ai_generated_team)}");
+# #    console.log("AI-Generated Players: {json.dumps(st.session_state.ai_generated_team)}");
 # </script>
 # """, height=0)
 

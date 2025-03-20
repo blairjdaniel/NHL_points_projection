@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 import os
+import matplotlib.pyplot as plt
 
 performance_metrics = [
     'd_zone_shift_starts', 'giveaways', 'goals', 'high_danger_goals', 'high_danger_shots', 'hits',
@@ -68,31 +69,13 @@ def simulate_game(user_team_filepath, ai_team_filepath, loadings_filepath, scali
     user_team = pd.read_csv(user_team_filepath)
     ai_team = pd.read_csv(ai_team_filepath)
 
-    # Debug: Print the loaded teams
-    print("User Team Data:")
-    print(user_team)
-    print("AI Team Data:")
-    print(ai_team)
-
     # Compute the scores
     user_player_scores = compute_player_scores(user_team, loadings_dict)
     ai_player_scores = compute_player_scores(ai_team, loadings_dict)
 
-    # Debug: Print the computed player scores
-    print("User Player Scores:")
-    print(user_player_scores)
-    print("AI Player Scores:")
-    print(ai_player_scores)
-
     # Compute individual contributions for all metrics
     user_contributions = compute_individual_contributions(user_team, loadings_dict, performance_metrics)
     ai_contributions = compute_individual_contributions(ai_team, loadings_dict, performance_metrics)
-
-    # Debug: Print the computed contributions
-    print("User Contributions:")
-    print(user_contributions)
-    print("AI Contributions:")
-    print(ai_contributions)
 
     # Sum the scores to get the team scores
     user_score = sum(user_player_scores.values())
@@ -115,13 +98,46 @@ def simulate_game(user_team_filepath, ai_team_filepath, loadings_filepath, scali
 
     return final_user_score, final_ai_score, user_player_scores, ai_player_scores, user_contributions, ai_contributions
 
+def plot_player_scores(user_player_scores, ai_player_scores, user_contributions, ai_contributions):
+    user_names = list(user_player_scores.keys())
+    user_scores = list(user_player_scores.values())
+    ai_names = list(ai_player_scores.keys())
+    ai_scores = list(ai_player_scores.values())
+
+    # Ensure the names and scores match in length
+    all_names = sorted(set(user_names + ai_names))
+    user_scores = [user_player_scores.get(name, 0) for name in all_names]
+    ai_scores = [ai_player_scores.get(name, 0) for name in all_names]
+
+    fig, ax = plt.subplots(6, 6, figsize=(20, 20))
+
+    ax[0, 0].barh(all_names, user_scores, color='blue', label='User Team')
+    ax[0, 0].barh(all_names, ai_scores, color='red', label='AI Team', left=user_scores)
+    ax[0, 0].set_xlabel('Score')
+    ax[0, 0].set_title('Player Contributions to Team Scores')
+    ax[0, 0].legend()
+
+    for i, metric in enumerate(performance_metrics):
+        row, col = divmod(i + 1, 6)
+        user_metric_scores = [user_contributions[metric].get(name, 0) for name in all_names]
+        ai_metric_scores = [ai_contributions[metric].get(name, 0) for name in all_names]
+        ax[row, col].barh(all_names, user_metric_scores, color='blue', label='User Team')
+        ax[row, col].barh(all_names, ai_metric_scores, color='red', label='AI Team', left=user_metric_scores)
+        ax[row, col].set_xlabel(f'{metric.capitalize()} Contribution')
+        ax[row, col].set_title(f'Player Contributions to {metric.capitalize()}')
+        ax[row, col].legend()
+
+    plt.tight_layout()
+    plt.show()
+
+
 def create_results_table(user_player_scores, ai_player_scores, user_contributions, ai_contributions):
     all_names = sorted(set(user_player_scores.keys()).union(ai_player_scores.keys()))
     
     # Create a DataFrame to hold the results
-    results_df = pd.DataFrame(columns=['Team', 'Score'] + performance_metrics)
+    results_df = pd.DataFrame(index=all_names, columns=['Team', 'Score'] + performance_metrics)
     
-     # Fill in the DataFrame with user team data
+    # Fill in the DataFrame with user team data
     for name in user_player_scores.keys():
         results_df.at[name, 'Team'] = 'User'
         results_df.at[name, 'Score'] = user_player_scores[name]
@@ -133,7 +149,7 @@ def create_results_table(user_player_scores, ai_player_scores, user_contribution
         results_df.at[name, 'Team'] = 'AI'
         results_df.at[name, 'Score'] = ai_player_scores[name]
         for metric in performance_metrics:
-            results_df.at[name, metric] = ai_contributions[metric].get(name, 0) 
+            results_df.at[name, metric] = ai_contributions[metric].get(name, 0)
     
     return results_df
 
@@ -168,6 +184,8 @@ if __name__ == "__main__":
     else:
         print("Team AI wins!")
 
+    # Plot player scores
+    #plot_player_scores(user_player_scores, ai_player_scores, user_contributions, ai_contributions)
     # Create and display the results table
     results_table = create_results_table(user_player_scores, ai_player_scores, user_contributions, ai_contributions)
     print(results_table)

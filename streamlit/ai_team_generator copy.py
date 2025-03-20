@@ -2,7 +2,6 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics.pairwise import cosine_similarity
 import random
-from sklearn.metrics.pairwise import euclidean_distances
 
 # Define the performance metrics
 performance_metrics = [
@@ -29,24 +28,14 @@ def recommend_next_player_skater(selected_player, players_pool, remaining_cap, p
     if pos_candidates.empty:
         return None, remaining_cap
     
-    # # Compute cosine similarity between the selected player and candidates
-    # pos_candidates['similarity'] = cosine_similarity(
-    #     pos_candidates[performance_metrics], 
-    #     selected_player[performance_metrics].values.reshape(1, -1)
-    # )[:, 0]
-
-    # Compute the Euclidean Distances to test against cosine similarities
-    pos_candidates['distances'] = euclidean_distances(
-        pos_candidates[performance_metrics],
+    # Compute cosine similarity between the selected player and candidates
+    pos_candidates['similarity'] = cosine_similarity(
+        pos_candidates[performance_metrics], 
         selected_player[performance_metrics].values.reshape(1, -1)
     )[:, 0]
     
-    # # Select the candidate with the highest similarity
-    # best_candidate = pos_candidates.sort_values(by='similarity', ascending=False).iloc[0]
-    # remaining_cap -= best_candidate['salary']
-
-    # Select the candidate with the highest similarity in distances
-    best_candidate = pos_candidates.sort_values(by='distances', ascending=True).iloc[0]
+    # Select the candidate with the highest similarity
+    best_candidate = pos_candidates.sort_values(by='similarity', ascending=False).iloc[0]
     remaining_cap -= best_candidate['salary']
     
     return best_candidate, remaining_cap
