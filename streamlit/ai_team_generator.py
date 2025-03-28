@@ -17,6 +17,7 @@ def preprocess_data(df):
     scaler = StandardScaler()
     scaled_df = pd.DataFrame(scaler.fit_transform(df[performance_metrics]), columns=performance_metrics)
     scaled_df['name'] = df['name'].values
+    scaled_df['team'] = df['team'].values
     scaled_df['position'] = df['position'].values
     scaled_df['salary'] = df['salary'].values
     return scaled_df, scaler
