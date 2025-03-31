@@ -38,25 +38,14 @@ features = [
     'on_ice_fenwick_percentage',
     'penalties_drawn',
     'shots_blocked_by_player',
-    'assists',
-    'position_encoded'
+    'assists',  
 ]
 
 def preprocess_data(player_data):
-    # # Standardize the data excluding 'name', 'position', and 'salary' and 'team'
-    # scaler = StandardScaler()
-    # scaled_data = scaler.fit_transform(player_data.drop(columns=['name', 'position', 'salary', 'team']))
 
     # Scale the data
     scaler = StandardScaler()
     scaled_data = scaler.fit_transform(player_data[features])
-
-    # # Create a new DataFrame with the scaled features
-    # scaled_df = pd.DataFrame(scaled_data, columns=player_data.columns.drop(['name', 'position', 'salary', 'team']))
-    # scaled_df['name'] = player_data['name'].values
-    # scaled_df['team'] = player_data['team'].values
-    # scaled_df['position'] = player_data['position'].values
-    # scaled_df['salary'] = player_data['salary'].values
 
     # Apply PCA for dimensionality reduction
     pca = PCA(n_components=10)  # Adjust the number of components as needed
@@ -69,8 +58,6 @@ def preprocess_data(player_data):
     pca_df['position_encoded'] = player_data['position_encoded'].values
     pca_df['salary'] = player_data['salary'].values
 
-
-
     # Create a mapping dictionary for position_encoded
     position_mapping = {0: 'D', 1: 'F'}  # Adjust the mapping as needed
 
@@ -80,42 +67,39 @@ def preprocess_data(player_data):
     # Drop the position_encoded column
     pca_df = pca_df.drop(columns=['position_encoded'])
   
-    
     return pca_df, scaler
 
+# Function to find the 5 closest players
 def find_closest_defense(player_name, df, n=5):
     # Get the feature values for the target player
-    target_player = df[df['name'] == player_name].drop(columns=['name', 'position', 'salary', 'team'])
+    target_player = df[df['name'] == player_name].drop(columns=['name', 'position', 'team', 'salary'])
     
     # Calculate the Euclidean distances between the target player and all other players
     distances = euclidean_distances(df.drop(columns=['name', 'position', 'salary', 'team']), target_player).flatten()
     
-    # Get the indices of the n closest players
-    closest_indices = np.argsort(distances)[1:n+1]  # Exclude the target player itself
-    
-    # Get the player names of the closest players
-    closest_players = df.iloc[closest_indices][['name', 'position','team', 'salary']]
-    
-    # Update the set of recommended players
-    recommended_defense.update(closest_players['name'])
-    
-    return closest_players
-
-def find_closest_forward(player_name, df, n=5):
-    # Get the feature values for the target player
-    target_player = df[df['name'] == player_name].drop(columns=['name', 'position', 'salary', 'team'])
-    
-    # Calculate the Euclidean distances between the target player and all other players
-    distances = euclidean_distances(df.drop(columns=['name', 'position', 'salary', 'team']), target_player).flatten()
-    
-    # Get the indices of the n closest players
+    # Get the indices of the 5 closest players
     closest_indices = np.argsort(distances)[1:n+1]  # Exclude the target player itself
     
     # Get the player names of the closest players
     closest_players = df.iloc[closest_indices][['name', 'position', 'team', 'salary']]
     
-    # Update the set of recommended players
-    recommended_forward.update(closest_players['name'])
+    return closest_players
+
+
+
+# Function to find the 5 closest players
+def find_closest_forwards(player_name, df, n=5):
+    # Get the feature values for the target player
+    target_player = df[df['name'] == player_name].drop(columns=['name', 'position', 'salary', 'team'])
+    
+    # Calculate the Euclidean distances between the target player and all other players
+    distances = euclidean_distances(df.drop(columns=['name', 'position', 'salary', 'team']), target_player).flatten()
+    
+    # Get the indices of the 5 closest players
+    closest_indices = np.argsort(distances)[1:n+1]  # Exclude the target player itself
+    
+    # Get the player names of the closest players
+    closest_players = df.iloc[closest_indices][['name', 'position','team', 'salary']]
     
     return closest_players
 

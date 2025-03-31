@@ -1,1 +1,1 @@
-difficulties:  Players who are rookies
+need to fix team names, add a col for the schedule

@@ -3,15 +3,39 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 import os
 
+
+feature_weights = {
+    'giveaways': 1,
+    'goals': 25,
+    'high_danger_goals': 4,
+    'high_danger_shots': 4,
+    'hits': 1,
+    'low_danger_goals': 0.5,
+    'low_danger_shots': 0.5,
+    'medium_danger_goals':  2,
+    'medium_danger_shots': 2,
+    'shifts': 1,
+    'shot_attempts': 0.5,
+    'shots_on_goal': 1,
+    'takeaways': 0.5,
+    'faceoffs_lost': 0.3,
+    'faceoffs_won': 0.3,
+    'icetime': 1,
+    'on_ice_corsi_percentage': 1,
+    'on_ice_fenwick_percentage': 1,
+    'shots_blocked_by_player': 1,
+    'assists': 20
+}
+
 performance_metrics = [
-    'd_zone_shift_starts', 'giveaways', 'goals', 'high_danger_goals', 'high_danger_shots', 'hits',
-    'low_danger_goals', 'low_danger_shots', 'medium_danger_goals', 'medium_danger_shots', 'missed_shots',
-    'o_zone_shift_starts', 'penalty_minutes', 'points', 'rebound_goals', 'rebounds', 'shifts', 'shot_attempts',
-    'shots_on_goal', 'takeaways', 'faceoffs_lost', 'faceoffs_won', 'games_played', 'icetime','on_ice_corsi_percentage',
-    'on_ice_fenwick_percentage', 'penalties_drawn', 'shots_blocked_by_player', 'assists'
+    'giveaways', 'goals', 'high_danger_goals', 'high_danger_shots', 'hits',
+    'low_danger_goals', 'low_danger_shots', 'medium_danger_goals', 'medium_danger_shots',
+    'shifts', 'shot_attempts', 'shots_on_goal', 'takeaways', 'faceoffs_lost', 'faceoffs_won', 
+    'icetime','on_ice_corsi_percentage', 'on_ice_fenwick_percentage', 'shots_blocked_by_player', 'assists'
 ]
 
 def preprocess_player_data(df):
+    
     scaler = StandardScaler()
     scaled_df = pd.DataFrame(scaler.fit_transform(df[performance_metrics]), columns=performance_metrics)
     scaled_df['name'] = df['name'].values
@@ -20,15 +44,23 @@ def preprocess_player_data(df):
     return scaled_df, scaler
 
 def generate_feature_loadings(df, features, filepath):
+    
+    # Create a copy so you don't modify the original data
+    weighted_df = df.copy()
+    # Apply the weights: Multiply each performance_metrics column by its weight
+    for metric, weight in feature_weights.items():
+        if metric in weighted_df.columns:
+            weighted_df[metric] = weighted_df[metric] * weight
+
     scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(df[features])
+    X_scaled = scaler.fit_transform(weighted_df[features])
     
     pca = PCA(n_components=1)
     pca.fit(X_scaled)
     
     loadings = pca.components_[0]
     loadings_df = pd.DataFrame({
-        'feature': features,
+        'performance_metrics': features,
         'loading': loadings
     })
     
@@ -37,18 +69,18 @@ def generate_feature_loadings(df, features, filepath):
 
 def load_feature_loadings(filepath):
     if not os.path.exists(filepath):
-        raise FileNotFoundError(f"{filepath} not found. Please generate the feature loadings first.")
+        raise FileNotFoundError(f"{filepath} not found. Please generate the performance_metrics loadings first.")
     loadings_df = pd.read_csv(filepath)
-    loadings_dict = dict(zip(loadings_df['feature'], loadings_df['loading']))
+    loadings_dict = dict(zip(loadings_df['performance_metrics'], loadings_df['loading']))
     return loadings_dict
 
 def compute_player_scores(team_df, loadings):
     player_scores = {}
     for index, player in team_df.iterrows():
         score = 0
-        for feature, weight in loadings.items():
-            if feature in player:
-                score += player[feature] * weight
+        for performance_metrics, weight in loadings.items():
+            if performance_metrics in player:
+                score += player[performance_metrics] * weight
         player_scores[player['name']] = score
     return player_scores
 
@@ -61,7 +93,7 @@ def compute_individual_contributions(team_df, loadings, metrics):
     return contributions
 
 def simulate_game(user_team_filepath, ai_team_filepath, loadings_filepath, scaling_factor=1000):
-    # Load the feature loadings
+    # Load the performance_metrics loadings
     loadings_dict = load_feature_loadings(loadings_filepath)
 
     # Load user and AI teams
@@ -143,7 +175,7 @@ if __name__ == "__main__":
     ai_team_filepath = 'ai_team.csv'
     loadings_filepath = 'feature_loadings.csv'
     
-    # Generate feature loadings if the file doesn't exist
+    # Generate performance_metrics loadings if the file doesn't exist
     if not os.path.exists(loadings_filepath):
         # Load your data
         forwards = pd.read_csv('path_to_forwards.csv')
@@ -151,11 +183,11 @@ if __name__ == "__main__":
         players = pd.concat([forwards, defense], ignore_index=True)
         
         # List of features
-        features = ['d_zone_shift_starts', 'giveaways', 'goals', 'high_danger_goals', 'high_danger_shots', 'hits',
-                    'low_danger_goals', 'low_danger_shots', 'medium_danger_goals', 'medium_danger_shots', 'missed_shots',
-                    'o_zone_shift_starts', 'penalty_minutes', 'points', 'rebound_goals', 'rebounds', 'shifts', 'shot_attempts',
-                    'shots_on_goal', 'takeaways', 'faceoffs_lost', 'faceoffs_won', 'games_played', 'icetime','on_ice_corsi_percentage',
-                    'on_ice_fenwick_percentage', 'penalties_drawn', 'shots_blocked_by_player', 'assists']
+        features = ['giveaways', 'goals', 'high_danger_goals', 'high_danger_shots', 'hits',
+                    'low_danger_goals', 'low_danger_shots', 'medium_danger_goals', 'medium_danger_shots',
+                    'shifts', 'shot_attempts', 'shots_on_goal', 'takeaways', 'faceoffs_lost', 
+                    'faceoffs_won', 'icetime','on_ice_corsi_percentage',
+                    'on_ice_fenwick_percentage', 'shots_blocked_by_player', 'assists']
         
         generate_feature_loadings(players, features, loadings_filepath)
     
